@@ -1,0 +1,34 @@
+local addonName = ...
+local optionsFrame = CreateFrame("Frame")
+
+local function languageExists(value)
+    for _, language in ipairs(MultiLanguageOptions.AVAILABLE_LANGUAGES) do
+        if language.value == value then
+            return true
+        end
+    end
+    return false
+end
+
+local function addLanguageOption()
+    if not languageExists('es') then
+        table.insert(MultiLanguageOptions.AVAILABLE_LANGUAGES, {value = 'es', text = 'Spanish'})
+        AddLanguageDropdownOption()
+    end
+
+    if MultiLanguageTranslations['es'] == nil then
+        MultiLanguageTranslations['es'] = {
+            description = "Descripción",
+            objectives = "Objetivos de la misión"
+        }
+    end
+end
+
+local function addonLoaded(self, event, addonLoadedName)
+    if addonLoadedName == addonName then
+        addLanguageOption()
+    end
+end
+
+optionsFrame:RegisterEvent("ADDON_LOADED")
+optionsFrame:SetScript("OnEvent", addonLoaded)
