@@ -18841,7 +18841,7 @@ MultiLanguageNpcData['es'][26704] = {name = "Defensor Drakkari", subname = nil}
 MultiLanguageNpcData['es'][26705] = {name = "Discípulo Llano Nevado", subname = nil}
 MultiLanguageNpcData['es'][26706] = {name = "Oso pardo infectado", subname = nil}
 MultiLanguageNpcData['es'][26707] = {name = "Litoko Tótem de Hielo", subname = "Mercader de armaduras"}
-MultiLanguageNpcData['es'][26708] = {name = "Habitante de Arroyoplata", subname = nil}
+MultiLanguageNpcData['es'][26708] = {name = "Habitante de Arroyoplata rememorado", subname = nil}
 MultiLanguageNpcData['es'][26709] = {name = "Pahu Pezuña Helada", subname = "Tabernera"}
 MultiLanguageNpcData['es'][26711] = {name = "Mamut herido", subname = nil}
 MultiLanguageNpcData['es'][26712] = {name = "Objetivo de canal de cristal", subname = nil}

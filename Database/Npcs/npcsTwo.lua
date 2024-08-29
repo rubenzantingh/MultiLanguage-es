@@ -33609,7 +33609,7 @@ MultiLanguageNpcData['es'][105422] = {name = "Tótem de mareas", subname = nil}
 MultiLanguageNpcData['es'][105423] = {name = "Fénix", subname = nil}
 MultiLanguageNpcData['es'][105424] = {name = "Froijla Portahachas", subname = nil}
 MultiLanguageNpcData['es'][105425] = {name = "Conejo", subname = nil}
-MultiLanguageNpcData['es'][105427] = {name = "Tótem Furia del cielo", subname = nil}
+MultiLanguageNpcData['es'][105427] = {name = "Tótem de cólera", subname = nil}
 MultiLanguageNpcData['es'][105432] = {name = "Lafayla Filobravo", subname = nil}
 MultiLanguageNpcData['es'][105433] = {name = "Pizarra la Bizarra", subname = nil}
 MultiLanguageNpcData['es'][105436] = {name = "Voldgar", subname = nil}
@@ -45884,6 +45884,7 @@ MultiLanguageNpcData['es'][119987] = {name = "Aethas' Talked to Quest Kill Credi
 MultiLanguageNpcData['es'][119988] = {name = "Avatar Caído", subname = nil}
 MultiLanguageNpcData['es'][119989] = {name = "Aethas' Portal Visible Quest Kill Credit", subname = nil}
 MultiLanguageNpcData['es'][119990] = {name = "Fenryr", subname = nil}
+MultiLanguageNpcData['es'][119991] = {name = "Kill Credit: Defense of Aviana", subname = nil}
 MultiLanguageNpcData['es'][119992] = {name = "Kil'jaeden", subname = "El Impostor"}
 MultiLanguageNpcData['es'][119993] = {name = "Tauren cautivo", subname = nil}
 MultiLanguageNpcData['es'][119994] = {name = "Jaula del carcelero", subname = nil}
