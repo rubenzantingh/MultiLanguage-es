@@ -45584,6 +45584,7 @@ MultiLanguageNpcData['es'][119652] = {name = "Disco", subname = nil}
 MultiLanguageNpcData['es'][119654] = {name = "Carcelero Escama de Ascuas", subname = nil}
 MultiLanguageNpcData['es'][119656] = {name = "Death Hunter Moorgoth (IGC)", subname = "Cazadores de muerte"}
 MultiLanguageNpcData['es'][119657] = {name = "Slrglrglr \"Stabby\" Glrslrslr (IGC)", subname = "Candidato de la Senda Oculta"}
+MultiLanguageNpcData['es'][119659] = {name = "Kettric (IGC)", subname = nil}
 MultiLanguageNpcData['es'][119660] = {name = "Draco abisal inferior", subname = nil}
 MultiLanguageNpcData['es'][119661] = {name = "Draco abisal", subname = nil}
 MultiLanguageNpcData['es'][119662] = {name = "Luciérnaga", subname = nil}

@@ -4145,7 +4145,7 @@ MultiLanguageNpcData['es'][5043] = {name = "Alborotador", subname = nil}
 MultiLanguageNpcData['es'][5044] = {name = "Hostigador de Theramore", subname = nil}
 MultiLanguageNpcData['es'][5045] = {name = "Soldado Hallan", subname = nil}
 MultiLanguageNpcData['es'][5046] = {name = "Teniente Caldwell", subname = nil}
-MultiLanguageNpcData['es'][5047] = {name = "Ellaercia", subname = "Diseñadora de tabardos de hermandad"}
+MultiLanguageNpcData['es'][5047] = {name = "Ellaercia", subname = "Diseñadora de tabardos"}
 MultiLanguageNpcData['es'][5048] = {name = "Víboris descarriada", subname = nil}
 MultiLanguageNpcData['es'][5049] = {name = "Lyesa Frenteacerada", subname = "Vendedora de tabardos"}
 MultiLanguageNpcData['es'][5052] = {name = "Edward Remington", subname = "Diseñador de tabardos"}
@@ -36231,6 +36231,7 @@ MultiLanguageNpcData['es'][48393] = {name = "Espectador de la Horda", subname = 
 MultiLanguageNpcData['es'][48394] = {name = "Cría obsidiana", subname = nil}
 MultiLanguageNpcData['es'][48395] = {name = "Cámara de Orkus", subname = nil}
 MultiLanguageNpcData['es'][48396] = {name = "Kasha", subname = "Corcel fiel de Orkus"}
+MultiLanguageNpcData['es'][48397] = {name = "Matarreyes Orkus", subname = "Rojo como mi ira"}
 MultiLanguageNpcData['es'][48402] = {name = "Sullah", subname = nil}
 MultiLanguageNpcData['es'][48403] = {name = "Vanndar Pico Tormenta", subname = "General Pico Tormenta"}
 MultiLanguageNpcData['es'][48407] = {name = "Capitana Balinda Piedrahogar", subname = "Capitana de Pico Tormenta"}
