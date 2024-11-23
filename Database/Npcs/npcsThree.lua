@@ -13841,6 +13841,7 @@ MultiLanguageNpcData['es'][137729] = {name = "Bellaco", subname = nil}
 MultiLanguageNpcData['es'][137730] = {name = "Conejo de selección de objetivo", subname = nil}
 MultiLanguageNpcData['es'][137731] = {name = "Conejo de selección de objetivo", subname = nil}
 MultiLanguageNpcData['es'][137732] = {name = "Zallestrasza", subname = nil}
+MultiLanguageNpcData['es'][137736] = {name = "Amalgama glotona", subname = nil}
 MultiLanguageNpcData['es'][137737] = {name = "Horror carcajeante", subname = nil}
 MultiLanguageNpcData['es'][137738] = {name = "Carnicero lúgubre", subname = nil}
 MultiLanguageNpcData['es'][137739] = {name = "Oso negro", subname = nil}
@@ -41334,6 +41335,7 @@ MultiLanguageNpcData['es'][170106] = {name = "Entregar mensaje", subname = nil}
 MultiLanguageNpcData['es'][170107] = {name = "Ir al Corazón del Bosque", subname = nil}
 MultiLanguageNpcData['es'][170108] = {name = "Hablar con la reina JR", subname = nil}
 MultiLanguageNpcData['es'][170109] = {name = "Cadena colgante", subname = nil}
+MultiLanguageNpcData['es'][170110] = {name = "Chip", subname = "Casa Prímula"}
 MultiLanguageNpcData['es'][170111] = {name = "Polilla de Arden ensillada", subname = nil}
 MultiLanguageNpcData['es'][170112] = {name = "Vermis de éter", subname = nil}
 MultiLanguageNpcData['es'][170113] = {name = "Púas", subname = nil}

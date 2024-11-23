@@ -2963,6 +2963,7 @@ MultiLanguageNpcData['es'][3582] = {name = "Aman", subname = nil}
 MultiLanguageNpcData['es'][3583] = {name = "Barithras Sombra Lunar", subname = nil}
 MultiLanguageNpcData['es'][3584] = {name = "Therylune", subname = nil}
 MultiLanguageNpcData['es'][3585] = {name = "Therysil", subname = nil}
+MultiLanguageNpcData['es'][3586] = {name = "Minero Johnson", subname = nil}
 MultiLanguageNpcData['es'][3587] = {name = "Lyrai", subname = "Suministros generales"}
 MultiLanguageNpcData['es'][3588] = {name = "Khardan Filorgullo", subname = "Forjador de armas"}
 MultiLanguageNpcData['es'][3589] = {name = "Keina", subname = "Fabricante de arcos"}
