@@ -3444,7 +3444,7 @@ MultiLanguageNpcData['es'][4149] = {name = "Kesteryth", subname = "Instructora 
 MultiLanguageNpcData['es'][4150] = {name = "Observador Gapo Salino", subname = nil}
 MultiLanguageNpcData['es'][4151] = {name = "Vitropiel Gapo Salino", subname = nil}
 MultiLanguageNpcData['es'][4153] = {name = "Kysandia", subname = "Instructora de felinos"}
-MultiLanguageNpcData['es'][4154] = {name = "Carroñero de los Llanos de Sal", subname = nil}
+MultiLanguageNpcData['es'][4154] = {name = "Carroñero del Desierto de Sal", subname = nil}
 MultiLanguageNpcData['es'][4155] = {name = "Idriana", subname = "Banquera"}
 MultiLanguageNpcData['es'][4156] = {name = "Astaia", subname = "Instructora de pesca"}
 MultiLanguageNpcData['es'][4157] = {name = "Kitari Buscalongo", subname = "Profesora de cartografía"}
@@ -4263,7 +4263,7 @@ MultiLanguageNpcData['es'][5160] = {name = "Emrul Riknussun", subname = "Suminis
 MultiLanguageNpcData['es'][5161] = {name = "Grimnur Marcapedra", subname = "Instructor de pesca"}
 MultiLanguageNpcData['es'][5162] = {name = "Tansy Burbajea", subname = "Suministros de pesca"}
 MultiLanguageNpcData['es'][5163] = {name = "Burbik Trazagranaje", subname = "Suministros comerciales"}
-MultiLanguageNpcData['es'][5164] = {name = "Grumnus Forjacero", subname = "Instructor de forja de armaduras"}
+MultiLanguageNpcData['es'][5164] = {name = "Grumnus Forjacero", subname = "Instructor de herrería"}
 MultiLanguageNpcData['es'][5165] = {name = "Hulfdan Barbanegra", subname = "Instructor de pícaros"}
 MultiLanguageNpcData['es'][5166] = {name = "Ormyr Ojílex", subname = "Instructor de pícaros"}
 MultiLanguageNpcData['es'][5167] = {name = "Fenthwick", subname = "Instructor de pícaros"}
@@ -4581,6 +4581,7 @@ MultiLanguageNpcData['es'][5631] = {name = "Médica de Theramore", subname = nil
 MultiLanguageNpcData['es'][5632] = {name = "Programa maestro de control, incursión en Theramonte", subname = nil}
 MultiLanguageNpcData['es'][5633] = {name = "Teniente Baxter", subname = nil}
 MultiLanguageNpcData['es'][5634] = {name = "Rapsodio Machacacanillas", subname = nil}
+MultiLanguageNpcData['es'][5635] = {name = "Falstad Martillo Salvaje", subname = "Gran señor feudal"}
 MultiLanguageNpcData['es'][5636] = {name = "Maestro de grifos Garracha", subname = nil}
 MultiLanguageNpcData['es'][5637] = {name = "Roetten Rocamartillo", subname = "Recuperadores S.A."}
 MultiLanguageNpcData['es'][5638] = {name = "Kreldig Ungor", subname = "Recuperadores S.A."}
@@ -5129,7 +5130,7 @@ MultiLanguageNpcData['es'][6301] = {name = "Gorbold Mano de Acero", subname = "S
 MultiLanguageNpcData['es'][6306] = {name = "Helene Desollapelambres", subname = "Instructora de desuello"}
 MultiLanguageNpcData['es'][6326] = {name = "Grifonero de guerra de la Horda", subname = "Maestro de grifoneros de guerra"}
 MultiLanguageNpcData['es'][6327] = {name = "Grifonero de guerra de la Alianza", subname = "Maestro de grifoneros de guerra"}
-MultiLanguageNpcData['es'][6328] = {name = "Dannie Efervescentix", subname = nil}
+MultiLanguageNpcData['es'][6328] = {name = "Dannie Efervescentix", subname = "Instructora de demonios"}
 MultiLanguageNpcData['es'][6329] = {name = "Saqueador irradiado", subname = nil}
 MultiLanguageNpcData['es'][6346] = {name = "Caballo esquelético", subname = nil}
 MultiLanguageNpcData['es'][6347] = {name = "Vándalo marino joven", subname = nil}
@@ -7017,7 +7018,7 @@ MultiLanguageNpcData['es'][10806] = {name = "Ursius", subname = nil}
 MultiLanguageNpcData['es'][10807] = {name = "Brumerán", subname = nil}
 MultiLanguageNpcData['es'][10808] = {name = "Timmy el Cruel", subname = nil}
 MultiLanguageNpcData['es'][10809] = {name = "Pidrespina", subname = nil}
-MultiLanguageNpcData['es'][10811] = {name = "Archivista Galford", subname = nil}
+MultiLanguageNpcData['es'][10811] = {name = "Instructor Galford", subname = nil}
 MultiLanguageNpcData['es'][10812] = {name = "Gran Cruzado Dathrohan", subname = nil}
 MultiLanguageNpcData['es'][10813] = {name = "Balnazzar", subname = nil}
 MultiLanguageNpcData['es'][10814] = {name = "Guardia de élite cromático", subname = nil}
@@ -7205,7 +7206,7 @@ MultiLanguageNpcData['es'][11142] = {name = "Cartero no-muerto", subname = nil}
 MultiLanguageNpcData['es'][11143] = {name = "Jefe de correos Gassol", subname = nil}
 MultiLanguageNpcData['es'][11144] = {name = "Esfera de oráculo", subname = nil}
 MultiLanguageNpcData['es'][11145] = {name = "Myolor Furiahendida", subname = nil}
-MultiLanguageNpcData['es'][11146] = {name = "Ironus Acero Frío", subname = "Instructor de forja de armas"}
+MultiLanguageNpcData['es'][11146] = {name = "Ironus Acero Frío", subname = "Instructor de herrería"}
 MultiLanguageNpcData['es'][11147] = {name = "Mecazancudo verde", subname = nil}
 MultiLanguageNpcData['es'][11148] = {name = "Mecazancudo de montar (morado)", subname = nil}
 MultiLanguageNpcData['es'][11149] = {name = "Mecazancudo de montar (rojo/azul)", subname = nil}
@@ -24171,6 +24172,7 @@ MultiLanguageNpcData['es'][36015] = {name = "Abrecaminos Faucenegra", subname = 
 MultiLanguageNpcData['es'][36025] = {name = "Fuegos de laboratorio secretos", subname = nil}
 MultiLanguageNpcData['es'][36034] = {name = "Karnum Tejedor de Marismas", subname = "El Círculo Cenarion"}
 MultiLanguageNpcData['es'][36042] = {name = "Explorador orco", subname = nil}
+MultiLanguageNpcData['es'][36047] = {name = "Orca Cazasombras", subname = nil}
 MultiLanguageNpcData['es'][36048] = {name = "Thressa Cañada Ámbar", subname = nil}
 MultiLanguageNpcData['es'][36052] = {name = "Garren Vientoscuro", subname = nil}
 MultiLanguageNpcData['es'][36056] = {name = "Khan Leh'prah", subname = nil}
@@ -24375,8 +24377,11 @@ MultiLanguageNpcData['es'][36479] = {name = "Archimago Mordent Sombrapar", subna
 MultiLanguageNpcData['es'][36481] = {name = "Centinela Ramaquieta", subname = nil}
 MultiLanguageNpcData['es'][36482] = {name = "Cometa colmillarr", subname = nil}
 MultiLanguageNpcData['es'][36488] = {name = "Náufrago Renegado", subname = nil}
+MultiLanguageNpcData['es'][36489] = {name = "Cadáver de brujo Filo Ardiente", subname = nil}
+MultiLanguageNpcData['es'][36490] = {name = "Cadáver de guardia apocalíptico", subname = nil}
 MultiLanguageNpcData['es'][36491] = {name = "Trent Hayward", subname = nil}
 MultiLanguageNpcData['es'][36492] = {name = "Ron Hayward", subname = nil}
+MultiLanguageNpcData['es'][36493] = {name = "Guardián Centauro", subname = nil}
 MultiLanguageNpcData['es'][36494] = {name = "Maestro de forja Gargelus", subname = nil}
 MultiLanguageNpcData['es'][36495] = {name = "Forgemaster Putridus Invisible Stalker", subname = nil}
 MultiLanguageNpcData['es'][36496] = {name = "Grimy Dedosgrasos", subname = "Tabernero"}
@@ -24497,6 +24502,7 @@ MultiLanguageNpcData['es'][36688] = {name = "Guardaespaldas de Fuerte del Norte"
 MultiLanguageNpcData['es'][36689] = {name = "Kalecgos", subname = nil}
 MultiLanguageNpcData['es'][36690] = {name = "Velador de Refugio del Ocaso", subname = nil}
 MultiLanguageNpcData['es'][36693] = {name = "Velador inconsciente", subname = nil}
+MultiLanguageNpcData['es'][36694] = {name = "Adana Tronacuerno", subname = nil}
 MultiLanguageNpcData['es'][36695] = {name = "Samantha Buckley", subname = "Vendedora de pertrechos"}
 MultiLanguageNpcData['es'][36696] = {name = "Jabaguerrero acorazado", subname = nil}
 MultiLanguageNpcData['es'][36697] = {name = "Clamaespinas Erizapúas", subname = nil}
@@ -24643,6 +24649,7 @@ MultiLanguageNpcData['es'][36910] = {name = "Tigre zipao", subname = nil}
 MultiLanguageNpcData['es'][36911] = {name = "Monje pandaren", subname = nil}
 MultiLanguageNpcData['es'][36913] = {name = "Ojo del Rey Exánime", subname = nil}
 MultiLanguageNpcData['es'][36914] = {name = "Centinela de Talrendis", subname = nil}
+MultiLanguageNpcData['es'][36915] = {name = "Erunak Hablapiedra", subname = "El Anillo de la Tierra"}
 MultiLanguageNpcData['es'][36916] = {name = "Esbirro necrófago", subname = nil}
 MultiLanguageNpcData['es'][36917] = {name = "Transporte de superficie a superficie", subname = nil}
 MultiLanguageNpcData['es'][36918] = {name = "Piedra de invocación de tradicionalista", subname = nil}
@@ -25030,6 +25037,7 @@ MultiLanguageNpcData['es'][37849] = {name = "Imagen de Sartharion", subname = ni
 MultiLanguageNpcData['es'][37851] = {name = "Imagen de Noth el Pesteador", subname = nil}
 MultiLanguageNpcData['es'][37852] = {name = "Quel'Delar Skull Target", subname = nil}
 MultiLanguageNpcData['es'][37853] = {name = "Imagen del instructor Razuvious", subname = nil}
+MultiLanguageNpcData['es'][37855] = {name = "Imagen de Malygos", subname = nil}
 MultiLanguageNpcData['es'][37858] = {name = "Imagen de Tajoescama", subname = nil}
 MultiLanguageNpcData['es'][37863] = {name = "Silenciador", subname = nil}
 MultiLanguageNpcData['es'][37865] = {name = "Perrito faldero", subname = nil}
@@ -26446,6 +26454,9 @@ MultiLanguageNpcData['es'][40894] = {name = "Gnombus el X-Terminator", subname =
 MultiLanguageNpcData['es'][40895] = {name = "Profesor Xakxak Giromato", subname = nil}
 MultiLanguageNpcData['es'][40896] = {name = "Lord Merobarbecho", subname = nil}
 MultiLanguageNpcData['es'][40897] = {name = "Capitán Kosak de Fuerte del Norte", subname = nil}
+MultiLanguageNpcData['es'][40898] = {name = "Alithia Merobarbecho", subname = "Tabernera"}
+MultiLanguageNpcData['es'][40899] = {name = "Arcanista Valdurian", subname = nil}
+MultiLanguageNpcData['es'][40900] = {name = "Neófito Crestaestrella", subname = nil}
 MultiLanguageNpcData['es'][40901] = {name = "Explosingeniero Silbapelusa", subname = nil}
 MultiLanguageNpcData['es'][40902] = {name = "Explosingeniera jefe Tripasbomba", subname = nil}
 MultiLanguageNpcData['es'][40903] = {name = "Maestra de espías Anara", subname = nil}
@@ -26544,6 +26555,7 @@ MultiLanguageNpcData['es'][41049] = {name = "Señor de las profundidades Zin'jat
 MultiLanguageNpcData['es'][41050] = {name = "Sacerdotisa de las mareas Sira'kess", subname = nil}
 MultiLanguageNpcData['es'][41051] = {name = "Bait Bunny", subname = nil}
 MultiLanguageNpcData['es'][41053] = {name = "Ryan Molinos", subname = "Comerciante"}
+MultiLanguageNpcData['es'][41054] = {name = "Viejo Hierrocabra", subname = "Herrero"}
 MultiLanguageNpcData['es'][41055] = {name = "Portal de Caos", subname = nil}
 MultiLanguageNpcData['es'][41056] = {name = "Montaraz Valgrum", subname = nil}
 MultiLanguageNpcData['es'][41057] = {name = "Bocados", subname = nil}
@@ -26768,6 +26780,7 @@ MultiLanguageNpcData['es'][41363] = {name = "Delber Giramanivela", subname = "T�
 MultiLanguageNpcData['es'][41364] = {name = "Señor del vacío", subname = nil}
 MultiLanguageNpcData['es'][41365] = {name = "Prototipo de zancudo de guerra", subname = nil}
 MultiLanguageNpcData['es'][41366] = {name = "Cañón de zancudo de guerra", subname = nil}
+MultiLanguageNpcData['es'][41367] = {name = "General Glubgok", subname = nil}
 MultiLanguageNpcData['es'][41371] = {name = "Buscador del vacío", subname = nil}
 MultiLanguageNpcData['es'][41374] = {name = "Gusano del vacío", subname = nil}
 MultiLanguageNpcData['es'][41376] = {name = "Nefarian", subname = nil}
@@ -27123,6 +27136,7 @@ MultiLanguageNpcData['es'][41993] = {name = "Elemental de tierra enfurecido", su
 MultiLanguageNpcData['es'][41994] = {name = "Atracadolor Kvaldir", subname = nil}
 MultiLanguageNpcData['es'][41995] = {name = "Ajustador de cuentas Kvaldir", subname = nil}
 MultiLanguageNpcData['es'][41996] = {name = "Guardián Zin'jatar", subname = nil}
+MultiLanguageNpcData['es'][41997] = {name = "Gran tiburón famélico", subname = nil}
 MultiLanguageNpcData['es'][41998] = {name = "Gran tiburón famélico", subname = nil}
 MultiLanguageNpcData['es'][41999] = {name = "Guardia de honor Naz'jar", subname = nil}
 MultiLanguageNpcData['es'][42001] = {name = "Llama resonante", subname = nil}
@@ -27212,6 +27226,8 @@ MultiLanguageNpcData['es'][42131] = {name = "Falstad Martillo Salvaje", subname 
 MultiLanguageNpcData['es'][42140] = {name = "Bebé múrloc Branquiazul", subname = nil}
 MultiLanguageNpcData['es'][42141] = {name = "Bruto de nave de guerra", subname = nil}
 MultiLanguageNpcData['es'][42143] = {name = "Objetivo de lazo", subname = nil}
+MultiLanguageNpcData['es'][42146] = {name = "Embajador Martillo de Escoria", subname = "Embajador Hierro Negro"}
+MultiLanguageNpcData['es'][42147] = {name = "Guardia Hierro Negro", subname = nil}
 MultiLanguageNpcData['es'][42152] = {name = "Arrest the Ambassador Credit", subname = nil}
 MultiLanguageNpcData['es'][42153] = {name = "Embajador Martillo de Escoria", subname = "Embajador Hierro Negro"}
 MultiLanguageNpcData['es'][42154] = {name = "Converso Crepuscular", subname = nil}
@@ -27643,6 +27659,7 @@ MultiLanguageNpcData['es'][43015] = {name = "Vidente Alsoomse", subname = "Instr
 MultiLanguageNpcData['es'][43017] = {name = "Fahlestad", subname = "Maestro de establos"}
 MultiLanguageNpcData['es'][43019] = {name = "Teldorae", subname = "Maestra de establos"}
 MultiLanguageNpcData['es'][43020] = {name = "Diablillo (Depsawn Visual)", subname = nil}
+MultiLanguageNpcData['es'][43021] = {name = "Adrius", subname = "Maestro de establos"}
 MultiLanguageNpcData['es'][43022] = {name = "Mack Fearsen", subname = nil}
 MultiLanguageNpcData['es'][43023] = {name = "Budd", subname = nil}
 MultiLanguageNpcData['es'][43025] = {name = "Budd's Vehicle Bunny 02", subname = nil}
@@ -30245,6 +30262,7 @@ MultiLanguageNpcData['es'][47306] = {name = "Centinela de Neferset", subname = n
 MultiLanguageNpcData['es'][47308] = {name = "Felwood Honey Bunny", subname = nil}
 MultiLanguageNpcData['es'][47309] = {name = "Ministro Kiyuubi", subname = nil}
 MultiLanguageNpcData['es'][47310] = {name = "Ministro Letherio", subname = nil}
+MultiLanguageNpcData['es'][47311] = {name = "Ministro Finister", subname = nil}
 MultiLanguageNpcData['es'][47312] = {name = "Jinete de grifos de Barbafuego", subname = nil}
 MultiLanguageNpcData['es'][47313] = {name = "Jinete de grifos de Barbafuego", subname = nil}
 MultiLanguageNpcData['es'][47314] = {name = "Bomba pegajosa", subname = nil}
@@ -30413,6 +30431,7 @@ MultiLanguageNpcData['es'][47578] = {name = "Hugen Sabioro", subname = "Instruct
 MultiLanguageNpcData['es'][47579] = {name = "Dariness la Erudita", subname = "Instructora de arqueología"}
 MultiLanguageNpcData['es'][47580] = {name = "Lakota Son del Viento", subname = nil}
 MultiLanguageNpcData['es'][47581] = {name = "Archimago Aranhir Vocestrella", subname = nil}
+MultiLanguageNpcData['es'][47582] = {name = "Erdunor Lanzablanca", subname = nil}
 MultiLanguageNpcData['es'][47583] = {name = "Defensor del Baluarte", subname = nil}
 MultiLanguageNpcData['es'][47584] = {name = "Aladrel Lanzablanca", subname = nil}
 MultiLanguageNpcData['es'][47585] = {name = "Magus Crepuscular", subname = nil}
@@ -30431,6 +30450,7 @@ MultiLanguageNpcData['es'][47602] = {name = "Maestro de códigos Deethuk", subna
 MultiLanguageNpcData['es'][47607] = {name = "Infantería druida de la Horda", subname = nil}
 MultiLanguageNpcData['es'][47608] = {name = "Infantería mago de la Horda", subname = nil}
 MultiLanguageNpcData['es'][47609] = {name = "Infantería pícaro de la Horda", subname = nil}
+MultiLanguageNpcData['es'][47610] = {name = "Infantería chamán de la Horda", subname = nil}
 MultiLanguageNpcData['es'][47617] = {name = "Farlus Corazón Salvaje", subname = "Círculo Esmeralda"}
 MultiLanguageNpcData['es'][47618] = {name = "Narkrall Rasgarra", subname = nil}
 MultiLanguageNpcData['es'][47619] = {name = "Elementalista Starion", subname = nil}
@@ -30811,6 +30831,7 @@ MultiLanguageNpcData['es'][48246] = {name = "John J. Keeshan", subname = nil}
 MultiLanguageNpcData['es'][48248] = {name = "Escupetósigo de penas", subname = nil}
 MultiLanguageNpcData['es'][48249] = {name = "Estridador de penas", subname = nil}
 MultiLanguageNpcData['es'][48250] = {name = "Teniente Farnsworth", subname = nil}
+MultiLanguageNpcData['es'][48251] = {name = "Kevin Geissler", subname = "Forjador de armaduras"}
 MultiLanguageNpcData['es'][48252] = {name = "Recluta de Baradin", subname = nil}
 MultiLanguageNpcData['es'][48253] = {name = "Guardia de Baradin", subname = nil}
 MultiLanguageNpcData['es'][48254] = {name = "Sargento Gray", subname = nil}
@@ -30881,6 +30902,7 @@ MultiLanguageNpcData['es'][48355] = {name = "Guardia Grito Infernal", subname = 
 MultiLanguageNpcData['es'][48356] = {name = "Karosh", subname = "Forjador de armaduras"}
 MultiLanguageNpcData['es'][48357] = {name = "Recluta del Mando de Grito Infernal", subname = nil}
 MultiLanguageNpcData['es'][48358] = {name = "Comandante Larmash", subname = nil}
+MultiLanguageNpcData['es'][48360] = {name = "Tercer oficial Kronkar", subname = nil}
 MultiLanguageNpcData['es'][48361] = {name = "Soldado Sarlosk", subname = nil}
 MultiLanguageNpcData['es'][48362] = {name = "Elemental Gate Bunny", subname = nil}
 MultiLanguageNpcData['es'][48363] = {name = "Capitán Prug", subname = nil}
@@ -32254,6 +32276,7 @@ MultiLanguageNpcData['es'][51165] = {name = "Guardia de Baradin", subname = nil}
 MultiLanguageNpcData['es'][51166] = {name = "Avizor de Grito Infernal", subname = nil}
 MultiLanguageNpcData['es'][51174] = {name = "Brann Barbabronce", subname = nil}
 MultiLanguageNpcData['es'][51187] = {name = "Coffer Bunny", subname = nil}
+MultiLanguageNpcData['es'][51189] = {name = "Azshara Land Mine Bunny", subname = nil}
 MultiLanguageNpcData['es'][51190] = {name = "Visión de los naaru", subname = nil}
 MultiLanguageNpcData['es'][51191] = {name = "Draenei enclenque", subname = nil}
 MultiLanguageNpcData['es'][51192] = {name = "Propagador del añublo de los Renegados", subname = nil}
@@ -32327,6 +32350,7 @@ MultiLanguageNpcData['es'][51502] = {name = "Larissia", subname = "Vendedora de
 MultiLanguageNpcData['es'][51503] = {name = "Randah Cuernocanto", subname = "Vendedora de hermandad"}
 MultiLanguageNpcData['es'][51504] = {name = "Velia Arcolunar", subname = "Vendedora de hermandad"}
 MultiLanguageNpcData['es'][51506] = {name = "Columna de luz", subname = nil}
+MultiLanguageNpcData['es'][51507] = {name = "Pacificador de Canción del Bosque", subname = nil}
 MultiLanguageNpcData['es'][51508] = {name = "Guardia de Valormok", subname = nil}
 MultiLanguageNpcData['es'][51512] = {name = "Mirla Platardiente", subname = "Vendedora de hermandad"}
 MultiLanguageNpcData['es'][51518] = {name = "Montaraz de Loch Modan", subname = nil}
@@ -32493,6 +32517,7 @@ MultiLanguageNpcData['es'][52088] = {name = "Removedora de caldero Gurubashi", s
 MultiLanguageNpcData['es'][52089] = {name = "Trabajador Gurubashi", subname = nil}
 MultiLanguageNpcData['es'][52137] = {name = "Espíritu vudú", subname = nil}
 MultiLanguageNpcData['es'][52146] = {name = "Delatora", subname = nil}
+MultiLanguageNpcData['es'][52147] = {name = "Ola de agonía", subname = nil}
 MultiLanguageNpcData['es'][52148] = {name = "Jin'do el Sojuzgadioses", subname = nil}
 MultiLanguageNpcData['es'][52150] = {name = "Jin'do el Sojuzgadioses", subname = nil}
 MultiLanguageNpcData['es'][52151] = {name = "Señor sangriento Mandokir", subname = nil}
@@ -32500,7 +32525,9 @@ MultiLanguageNpcData['es'][52154] = {name = "Jin'do el Tábido", subname = nil}
 MultiLanguageNpcData['es'][52155] = {name = "Sumo sacerdote Venoxis", subname = nil}
 MultiLanguageNpcData['es'][52156] = {name = "Espíritu encadenado", subname = nil}
 MultiLanguageNpcData['es'][52157] = {name = "Ohgan", subname = nil}
+MultiLanguageNpcData['es'][52160] = {name = "Ola de agonía", subname = nil}
 MultiLanguageNpcData['es'][52161] = {name = "Abrecaminos Maderiza", subname = nil}
+MultiLanguageNpcData['es'][52162] = {name = "Thermal Pocket Bunny", subname = nil}
 MultiLanguageNpcData['es'][52165] = {name = "Bestia de lodo", subname = nil}
 MultiLanguageNpcData['es'][52167] = {name = "Espíritu guerrero Gurubashi", subname = nil}
 MultiLanguageNpcData['es'][52170] = {name = "Gizzik Trincamena", subname = "Instructor de minería"}
@@ -32527,8 +32554,11 @@ MultiLanguageNpcData['es'][52225] = {name = "Aventurero del Fuerte Livingston", 
 MultiLanguageNpcData['es'][52226] = {name = "Cachorro de pantera", subname = nil}
 MultiLanguageNpcData['es'][52227] = {name = "Balgor Azotaespinillas", subname = "Conductor de caravana"}
 MultiLanguageNpcData['es'][52234] = {name = "Bwemba", subname = nil}
+MultiLanguageNpcData['es'][52235] = {name = "Tony Dos Colmillos", subname = nil}
 MultiLanguageNpcData['es'][52239] = {name = "Zen'Kiki", subname = nil}
 MultiLanguageNpcData['es'][52242] = {name = "Rey Mrgl-Mrgl", subname = nil}
+MultiLanguageNpcData['es'][52243] = {name = "Mog'dorg el Marchito", subname = nil}
+MultiLanguageNpcData['es'][52249] = {name = "Tarenar Golpe Solar", subname = nil}
 MultiLanguageNpcData['es'][52258] = {name = "Gri'lek", subname = nil}
 MultiLanguageNpcData['es'][52268] = {name = "Riha", subname = "Vendedora de hermandad"}
 MultiLanguageNpcData['es'][52271] = {name = "Hazza'rah", subname = nil}
@@ -32596,8 +32626,11 @@ MultiLanguageNpcData['es'][52358] = {name = "Chichón Perinola", subname = "Jugu
 MultiLanguageNpcData['es'][52359] = {name = "Vagoneta de juguete", subname = nil}
 MultiLanguageNpcData['es'][52361] = {name = "Toy Cart Bunny", subname = nil}
 MultiLanguageNpcData['es'][52362] = {name = "Señor Tiki Zim'wae", subname = nil}
+MultiLanguageNpcData['es'][52363] = {name = "Occu'thar", subname = nil}
 MultiLanguageNpcData['es'][52364] = {name = "Máscara ritual Tiki", subname = nil}
 MultiLanguageNpcData['es'][52367] = {name = "Cometa de dragón", subname = nil}
+MultiLanguageNpcData['es'][52368] = {name = "Acecha ojos", subname = nil}
+MultiLanguageNpcData['es'][52369] = {name = "Acecha ojos", subname = nil}
 MultiLanguageNpcData['es'][52370] = {name = "Perseguir objetivo derecho (Invisible)", subname = nil}
 MultiLanguageNpcData['es'][52371] = {name = "Grent Martillo Funesto", subname = nil}
 MultiLanguageNpcData['es'][52372] = {name = "Mauti", subname = nil}
@@ -32615,6 +32648,7 @@ MultiLanguageNpcData['es'][52385] = {name = "Volador Filo Ardiente", subname = n
 MultiLanguageNpcData['es'][52386] = {name = "Jinete del viento Filo Ardiente", subname = nil}
 MultiLanguageNpcData['es'][52387] = {name = "Acechador en cueva", subname = nil}
 MultiLanguageNpcData['es'][52388] = {name = "Perseguir objetivo izquierdo (Invisible)", subname = nil}
+MultiLanguageNpcData['es'][52389] = {name = "Ojo de Occu'thar", subname = nil}
 MultiLanguageNpcData['es'][52390] = {name = "Suma sacerdotisa Kilnara", subname = nil}
 MultiLanguageNpcData['es'][52391] = {name = "Perseguir objetivo derecho (Invisible)", subname = nil}
 MultiLanguageNpcData['es'][52392] = {name = "Maestro cocinero Gurubashi", subname = nil}
@@ -32635,6 +32669,8 @@ MultiLanguageNpcData['es'][52420] = {name = "Bazzil Tejescarcha", subname = "El�
 MultiLanguageNpcData['es'][52421] = {name = "Hans Ascuatenue", subname = "El Cono de frío"}
 MultiLanguageNpcData['es'][52422] = {name = "Kaulema el Influyente", subname = nil}
 MultiLanguageNpcData['es'][52423] = {name = "Aprendiz de mago", subname = nil}
+MultiLanguageNpcData['es'][52427] = {name = "Unidad de contención destruida", subname = nil}
+MultiLanguageNpcData['es'][52428] = {name = "Ojo de Occu'thar", subname = nil}
 MultiLanguageNpcData['es'][52429] = {name = "Zanza el Incansable", subname = nil}
 MultiLanguageNpcData['es'][52430] = {name = "Cadenas de Hakkar", subname = nil}
 MultiLanguageNpcData['es'][52434] = {name = "Habitante Gurubashi", subname = nil}
@@ -32667,10 +32703,15 @@ MultiLanguageNpcData['es'][52526] = {name = "Vehículo de baile de rubí", subna
 MultiLanguageNpcData['es'][52528] = {name = "Bolsa de huevos", subname = nil}
 MultiLanguageNpcData['es'][52529] = {name = "Caldero de tormento tóxico de Zanzil", subname = nil}
 MultiLanguageNpcData['es'][52532] = {name = "Espíritu de portal", subname = nil}
+MultiLanguageNpcData['es'][52536] = {name = "Guardia de sangre Zar'shi", subname = "Intendente de honor"}
+MultiLanguageNpcData['es'][52537] = {name = "General caballero T'Maire Sydes", subname = "Intendente de honor"}
+MultiLanguageNpcData['es'][52545] = {name = "Teniente Tristia", subname = "Intendente de conquista gloriosa"}
+MultiLanguageNpcData['es'][52546] = {name = "Capitán Martillo de Endecha", subname = "Intendente de conquista"}
 MultiLanguageNpcData['es'][52562] = {name = "Johnny Fenómeno", subname = nil}
 MultiLanguageNpcData['es'][52578] = {name = "Huérfano orco", subname = nil}
 MultiLanguageNpcData['es'][52581] = {name = "Zángano Telaceniza", subname = nil}
 MultiLanguageNpcData['es'][52583] = {name = "Canrojo dos plazas", subname = nil}
+MultiLanguageNpcData['es'][52584] = {name = "Laida Gemavistosa", subname = "Suministros de joyería"}
 MultiLanguageNpcData['es'][52585] = {name = "Canrojo dos plazas", subname = nil}
 MultiLanguageNpcData['es'][52586] = {name = "Hanner Gemavistosa", subname = "Instructor de joyería"}
 MultiLanguageNpcData['es'][52587] = {name = "Neller Fayne", subname = "Instructor de joyería"}
@@ -32817,6 +32858,7 @@ MultiLanguageNpcData['es'][53225] = {name = "Prole de pterrordáctilo", subname 
 MultiLanguageNpcData['es'][53232] = {name = "Figurilla vudú", subname = nil}
 MultiLanguageNpcData['es'][53237] = {name = "Destination Stalker", subname = nil}
 MultiLanguageNpcData['es'][53244] = {name = "Practicante despiertallamas", subname = nil}
+MultiLanguageNpcData['es'][53249] = {name = "Matriarca halcón de fuego", subname = nil}
 MultiLanguageNpcData['es'][53276] = {name = "Oso de batalla Amani", subname = nil}
 MultiLanguageNpcData['es'][53283] = {name = "Cachorro guardián", subname = nil}
 MultiLanguageNpcData['es'][53352] = {name = "Comandante Sharp", subname = nil}
@@ -32827,10 +32869,12 @@ MultiLanguageNpcData['es'][53405] = {name = "Raedra Martilloviento", subname = "
 MultiLanguageNpcData['es'][53410] = {name = "Lissah Prendehechizos", subname = "Instructora de encantamiento y suministros"}
 MultiLanguageNpcData['es'][53418] = {name = "Personal del complejo", subname = nil}
 MultiLanguageNpcData['es'][53421] = {name = "Faena Lanudo", subname = "Instructora de arqueología"}
+MultiLanguageNpcData['es'][53432] = {name = "Antárbol ardiente", subname = nil}
 MultiLanguageNpcData['es'][53433] = {name = "Llama chisporroteante", subname = nil}
 MultiLanguageNpcData['es'][53435] = {name = "Unstable Magma Elemental Stalker", subname = nil}
 MultiLanguageNpcData['es'][53436] = {name = "Eustace Curtebien", subname = "Instructor de peletería y suministros"}
 MultiLanguageNpcData['es'][53437] = {name = "Humbert Curtebien", subname = "Instructor de desuello"}
+MultiLanguageNpcData['es'][53438] = {name = "Reflejo exacto", subname = nil}
 MultiLanguageNpcData['es'][53440] = {name = "Durango", subname = "Pertrechos"}
 MultiLanguageNpcData['es'][53441] = {name = "Kin'weelay", subname = nil}
 MultiLanguageNpcData['es'][53442] = {name = "Sacerdotisa Hu'rala", subname = nil}
@@ -32844,12 +32888,14 @@ MultiLanguageNpcData['es'][53467] = {name = "Descender", subname = nil}
 MultiLanguageNpcData['es'][53474] = {name = "Rasgón en la red", subname = nil}
 MultiLanguageNpcData['es'][53488] = {name = "Summon Enabler Stalker", subname = nil}
 MultiLanguageNpcData['es'][53490] = {name = "Red pegajosa", subname = nil}
+MultiLanguageNpcData['es'][53491] = {name = "Diablillo ígneo", subname = nil}
 MultiLanguageNpcData['es'][53492] = {name = "Red pegajosa", subname = nil}
 MultiLanguageNpcData['es'][53494] = {name = "Baleroc", subname = "El Guardián de la Puerta"}
 MultiLanguageNpcData['es'][53495] = {name = "Fragmento de tormento", subname = nil}
 MultiLanguageNpcData['es'][53516] = {name = "Esencia de duda", subname = nil}
 MultiLanguageNpcData['es'][53517] = {name = "Hongo mucilaginoso escurridizo", subname = nil}
 MultiLanguageNpcData['es'][53518] = {name = "Thrall", subname = nil}
+MultiLanguageNpcData['es'][53520] = {name = "Gusano de lava orondo", subname = nil}
 MultiLanguageNpcData['es'][53522] = {name = "Bebé pulpo", subname = nil}
 MultiLanguageNpcData['es'][53526] = {name = "Caracol de Aguasclaras", subname = nil}
 MultiLanguageNpcData['es'][53527] = {name = "Prisionero", subname = nil}
@@ -32878,6 +32924,7 @@ MultiLanguageNpcData['es'][53647] = {name = "Vórtice de añoranza", subname = n
 MultiLanguageNpcData['es'][53658] = {name = "Osito de Hyjal", subname = nil}
 MultiLanguageNpcData['es'][53661] = {name = "Azotador carmesí", subname = nil}
 MultiLanguageNpcData['es'][53691] = {name = "Shannox", subname = nil}
+MultiLanguageNpcData['es'][53692] = {name = "Cosita adorable de Hyjal", subname = nil}
 MultiLanguageNpcData['es'][53694] = {name = "Desmembrador", subname = nil}
 MultiLanguageNpcData['es'][53695] = {name = "Rostrofuria", subname = nil}
 MultiLanguageNpcData['es'][53702] = {name = "Malogros", subname = "Vendedor de varitas"}
@@ -32889,9 +32936,12 @@ MultiLanguageNpcData['es'][53738] = {name = "Aggra", subname = nil}
 MultiLanguageNpcData['es'][53739] = {name = "Elemento de paciencia", subname = nil}
 MultiLanguageNpcData['es'][53745] = {name = "Estirpe atiborrada", subname = nil}
 MultiLanguageNpcData['es'][53752] = {name = "Lanza de Shannox", subname = nil}
+MultiLanguageNpcData['es'][53753] = {name = "Estirpe Telaceniza", subname = nil}
 MultiLanguageNpcData['es'][53756] = {name = "Darla", subname = "Vendedora de varitas"}
 MultiLanguageNpcData['es'][53757] = {name = "Fondón", subname = "Vendedor de caramelos y juguetes"}
 MultiLanguageNpcData['es'][53760] = {name = "Farina", subname = "Vendedor de máscaras"}
+MultiLanguageNpcData['es'][53761] = {name = "Escoba de la vieja bruja", subname = nil}
+MultiLanguageNpcData['es'][53762] = {name = "Vieja bruja", subname = nil}
 MultiLanguageNpcData['es'][53766] = {name = "Tarecgosa", subname = nil}
 MultiLanguageNpcData['es'][53783] = {name = "Elizil Polilla Invernal", subname = "Maestra de vuelo"}
 MultiLanguageNpcData['es'][53786] = {name = "Monstruosidad llameante", subname = nil}
@@ -32909,6 +32959,11 @@ MultiLanguageNpcData['es'][53894] = {name = "Piedra nuclearia de paciencia", sub
 MultiLanguageNpcData['es'][53901] = {name = "Magma inestable", subname = nil}
 MultiLanguageNpcData['es'][53910] = {name = "Shannox Controller", subname = nil}
 MultiLanguageNpcData['es'][53914] = {name = "Huevo de magma", subname = nil}
+MultiLanguageNpcData['es'][53950] = {name = "Mensajero contratado", subname = nil}
+MultiLanguageNpcData['es'][53954] = {name = "Salpicador de sangre", subname = nil}
+MultiLanguageNpcData['es'][53961] = {name = "Blood Spatter (Small)", subname = nil}
+MultiLanguageNpcData['es'][53965] = {name = "Araña siniestra", subname = nil}
+MultiLanguageNpcData['es'][53966] = {name = "Spider Summoner (Ship)", subname = nil}
 MultiLanguageNpcData['es'][53985] = {name = "Lobo de guerra sañoso", subname = nil}
 MultiLanguageNpcData['es'][53986] = {name = "Tormenta de Fuego", subname = nil}
 MultiLanguageNpcData['es'][53991] = {name = "Quincy Cubertería", subname = "Dueño y propietario"}
@@ -32916,16 +32971,21 @@ MultiLanguageNpcData['es'][54004] = {name = "Jaga", subname = nil}
 MultiLanguageNpcData['es'][54015] = {name = "Mayordomo Corzocelada", subname = "Archidruida de la Llama"}
 MultiLanguageNpcData['es'][54019] = {name = "Druida de la Gafa cautivo", subname = nil}
 MultiLanguageNpcData['es'][54020] = {name = "General Purpose Bunny JMF (Look 2 - Flying, Huge AOI)", subname = nil}
+MultiLanguageNpcData['es'][54021] = {name = "Hudson Barnes", subname = "Estudiante de arqueología"}
 MultiLanguageNpcData['es'][54026] = {name = "Motitas", subname = "Mascota de Vin"}
 MultiLanguageNpcData['es'][54027] = {name = "Mini Tarecgosa", subname = nil}
+MultiLanguageNpcData['es'][54032] = {name = "Miembro de la banda muerto", subname = nil}
+MultiLanguageNpcData['es'][54035] = {name = "Araña siniestra", subname = nil}
 MultiLanguageNpcData['es'][54066] = {name = "Balloon Bunny", subname = nil}
 MultiLanguageNpcData['es'][54067] = {name = "Jaga", subname = nil}
 MultiLanguageNpcData['es'][54068] = {name = "Globos", subname = nil}
 MultiLanguageNpcData['es'][54073] = {name = "Maestro de canes despiertallamas", subname = nil}
 MultiLanguageNpcData['es'][54112] = {name = "Lanza de Shannox", subname = nil}
 MultiLanguageNpcData['es'][54113] = {name = "Sustos", subname = "Mascota de Jaga"}
+MultiLanguageNpcData['es'][54114] = {name = "Vacío desatado", subname = nil}
 MultiLanguageNpcData['es'][54116] = {name = "Dori'thur", subname = "Compañero de Tyrande"}
 MultiLanguageNpcData['es'][54117] = {name = "Vin", subname = nil}
+MultiLanguageNpcData['es'][54118] = {name = "Hudson Barnes", subname = "Estudiante de arqueología"}
 MultiLanguageNpcData['es'][54123] = {name = "Eco de Sylvanas", subname = nil}
 MultiLanguageNpcData['es'][54128] = {name = "Cajón espeluznante", subname = nil}
 MultiLanguageNpcData['es'][54141] = {name = "Edgar Ganabien", subname = nil}
@@ -32934,6 +32994,8 @@ MultiLanguageNpcData['es'][54144] = {name = "Magmeante", subname = nil}
 MultiLanguageNpcData['es'][54145] = {name = "Conducto de magma", subname = nil}
 MultiLanguageNpcData['es'][54161] = {name = "Arconte de fuego", subname = nil}
 MultiLanguageNpcData['es'][54173] = {name = "Malfurion Tempestira", subname = nil}
+MultiLanguageNpcData['es'][54199] = {name = "Lord Piroclasto", subname = nil}
+MultiLanguageNpcData['es'][54205] = {name = "Ren Manoveloz", subname = "Líder de la banda"}
 MultiLanguageNpcData['es'][54214] = {name = "Scott Keenan", subname = nil}
 MultiLanguageNpcData['es'][54215] = {name = "Lana Ashwin", subname = nil}
 MultiLanguageNpcData['es'][54216] = {name = "Warren Fulton", subname = nil}
@@ -32972,6 +33034,7 @@ MultiLanguageNpcData['es'][54402] = {name = "Lurah Vid de la Ira", subname = "Co
 MultiLanguageNpcData['es'][54431] = {name = "Eco de Baine", subname = nil}
 MultiLanguageNpcData['es'][54432] = {name = "Murozond", subname = "El Señor del Infinito"}
 MultiLanguageNpcData['es'][54438] = {name = "Diablurky", subname = nil}
+MultiLanguageNpcData['es'][54439] = {name = "Avatar de Piroclasto", subname = nil}
 MultiLanguageNpcData['es'][54441] = {name = "Taumaturgo Vahsreen", subname = "Reforjador Arcano"}
 MultiLanguageNpcData['es'][54442] = {name = "Tejedor de distorsión Hashom", subname = "Transfigurador"}
 MultiLanguageNpcData['es'][54444] = {name = "Gnoll de la Feria de la Luna Negra", subname = nil}
@@ -32987,6 +33050,7 @@ MultiLanguageNpcData['es'][54490] = {name = "Dubenko", subname = "La tortuga d
 MultiLanguageNpcData['es'][54491] = {name = "Mono de la Luna Negra", subname = nil}
 MultiLanguageNpcData['es'][54504] = {name = "Tonque dañado", subname = nil}
 MultiLanguageNpcData['es'][54510] = {name = "Peque", subname = nil}
+MultiLanguageNpcData['es'][54515] = {name = "Thermal Pocket Bunny", subname = nil}
 MultiLanguageNpcData['es'][54518] = {name = "Feriante herido", subname = nil}
 MultiLanguageNpcData['es'][54533] = {name = "Príncipe Lakma", subname = "El último quimerok"}
 MultiLanguageNpcData['es'][54539] = {name = "Globo de la Alianza", subname = nil}
@@ -33239,6 +33303,7 @@ MultiLanguageNpcData['es'][205998] = {name = "Reflejo exacto", subname = nil}
 MultiLanguageNpcData['es'][205999] = {name = "Reflejo exacto", subname = nil}
 MultiLanguageNpcData['es'][206038] = {name = "Tentáculo triturador inmortal", subname = nil}
 MultiLanguageNpcData['es'][207128] = {name = "Constelación animada", subname = "Intercambio de esencia sideral"}
+MultiLanguageNpcData['es'][208033] = {name = "Draco esmeralda de pesadilla", subname = nil}
 MultiLanguageNpcData['es'][211011] = {name = "Vermis arbórea auspiciosa", subname = nil}
 MultiLanguageNpcData['es'][211012] = {name = "Ciprés", subname = nil}
 MultiLanguageNpcData['es'][211025] = {name = "Mini Wrathion", subname = nil}
@@ -33259,6 +33324,7 @@ MultiLanguageNpcData['es'][224065] = {name = "Lechucillo", subname = nil}
 MultiLanguageNpcData['es'][225965] = {name = "Frix Xizzix", subname = "Bloodthirsty PvP Gear Vendor"}
 MultiLanguageNpcData['es'][226581] = {name = "Jinete del viento", subname = nil}
 MultiLanguageNpcData['es'][228792] = {name = "Acechador con espinas Faucemagma", subname = nil}
+MultiLanguageNpcData['es'][229834] = {name = "Draco de lava", subname = nil}
 MultiLanguageNpcData['es'][232527] = {name = "Reven", subname = nil}
 MultiLanguageNpcData['es'][232984] = {name = "Frontauro de magma", subname = "Suministros del Frente de Magma"}
 MultiLanguageNpcData['es'][234135] = {name = "Cuidarrocas de kyanita", subname = "Intercambio de fragmentos de piedra con fisuras"}
