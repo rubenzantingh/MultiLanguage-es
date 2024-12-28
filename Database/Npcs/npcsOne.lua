@@ -11281,6 +11281,7 @@ MultiLanguageNpcData['es'][17762] = {name = "Outland Carrion Bird, Green", subna
 MultiLanguageNpcData['es'][17763] = {name = "Outland Carrion Bird, White", subname = nil}
 MultiLanguageNpcData['es'][17764] = {name = "Outland Carrion Bird, Yellow", subname = nil}
 MultiLanguageNpcData['es'][17765] = {name = "Centinela de silitista de la Alianza", subname = nil}
+MultiLanguageNpcData['es'][17766] = {name = "Centinela de silitista de la Horda", subname = nil}
 MultiLanguageNpcData['es'][17767] = {name = "Ira Fríoinvierno", subname = nil}
 MultiLanguageNpcData['es'][17768] = {name = "Caballero de sangre Hojafirme", subname = nil}
 MultiLanguageNpcData['es'][17769] = {name = "Caballero de sangre adepto", subname = nil}
@@ -18450,7 +18451,6 @@ MultiLanguageNpcData['es'][26253] = {name = "Pacificador Sol Devastado", subname
 MultiLanguageNpcData['es'][26254] = {name = "Portal inerte", subname = nil}
 MultiLanguageNpcData['es'][26255] = {name = "Portal de Shattrath", subname = nil}
 MultiLanguageNpcData['es'][26256] = {name = "Farshire Bell Credit", subname = nil}
-MultiLanguageNpcData['es'][26257] = {name = "Hechicero de Aguja de Flujo", subname = nil}
 MultiLanguageNpcData['es'][26259] = {name = "Soldado Sol Devastado", subname = nil}
 MultiLanguageNpcData['es'][26260] = {name = "Kurun", subname = nil}
 MultiLanguageNpcData['es'][26261] = {name = "Gigante de las Colinas Pardas", subname = nil}
@@ -29726,7 +29726,7 @@ MultiLanguageNpcData['es'][41135] = {name = "\"Desplumado\" Johnson", subname = 
 MultiLanguageNpcData['es'][41136] = {name = "Emboscador Machacamiedo", subname = nil}
 MultiLanguageNpcData['es'][41137] = {name = "Trillanodonte desplazado", subname = nil}
 MultiLanguageNpcData['es'][41138] = {name = "Defensor Okril'lon", subname = nil}
-MultiLanguageNpcData['es'][41139] = {name = "Ensalmadora de espíritus Naz'jar", subname = nil}
+MultiLanguageNpcData['es'][41139] = {name = "Oráculo Naz'jar", subname = nil}
 MultiLanguageNpcData['es'][41140] = {name = "Burok", subname = "Maestro de vuelo"}
 MultiLanguageNpcData['es'][41141] = {name = "Esfera mágica Peloescarcha", subname = nil}
 MultiLanguageNpcData['es'][41142] = {name = "Cuidador Marnlek", subname = "Cuidador de murciélagos"}
