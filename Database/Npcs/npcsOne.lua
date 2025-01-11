@@ -9891,7 +9891,7 @@ MultiLanguageNpcData['es'][16302] = {name = "Acechador resucitado", subname = ni
 MultiLanguageNpcData['es'][16303] = {name = "Esqueleto Terroespina", subname = nil}
 MultiLanguageNpcData['es'][16304] = {name = "Devorador Arcano", subname = nil}
 MultiLanguageNpcData['es'][16305] = {name = "Centinela Terroespina", subname = nil}
-MultiLanguageNpcData['es'][16306] = {name = "Esbirro de la invasión de la Plaga, engendrador, fantasma ecrófago", subname = nil}
+MultiLanguageNpcData['es'][16306] = {name = "Esbirro de la invasión de la Plaga, engendrador, fantasma/ecrófago", subname = nil}
 MultiLanguageNpcData['es'][16307] = {name = "Arúspice Jaulamuerta", subname = nil}
 MultiLanguageNpcData['es'][16308] = {name = "Hechicero Jaulamuerta", subname = nil}
 MultiLanguageNpcData['es'][16309] = {name = "Caníbal ganglioso", subname = nil}
@@ -18451,6 +18451,7 @@ MultiLanguageNpcData['es'][26253] = {name = "Pacificador Sol Devastado", subname
 MultiLanguageNpcData['es'][26254] = {name = "Portal inerte", subname = nil}
 MultiLanguageNpcData['es'][26255] = {name = "Portal de Shattrath", subname = nil}
 MultiLanguageNpcData['es'][26256] = {name = "Farshire Bell Credit", subname = nil}
+MultiLanguageNpcData['es'][26257] = {name = "Hechicero de Aguja de Flujo", subname = nil}
 MultiLanguageNpcData['es'][26259] = {name = "Soldado Sol Devastado", subname = nil}
 MultiLanguageNpcData['es'][26260] = {name = "Kurun", subname = nil}
 MultiLanguageNpcData['es'][26261] = {name = "Gigante de las Colinas Pardas", subname = nil}

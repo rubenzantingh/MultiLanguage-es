@@ -38185,7 +38185,6 @@ MultiLanguageNpcData['es'][166604] = {name = "Zo'umlo", subname = nil}
 MultiLanguageNpcData['es'][166605] = {name = "Caballero de la Espada de Ébano", subname = nil}
 MultiLanguageNpcData['es'][166606] = {name = "Caballero de la Espada de Ébano", subname = nil}
 MultiLanguageNpcData['es'][166607] = {name = "Telethakas", subname = nil}
-MultiLanguageNpcData['es'][166608] = {name = "Mueh'zala", subname = nil}
 MultiLanguageNpcData['es'][166609] = {name = "Chyrus", subname = "Dechado de la humildad"}
 MultiLanguageNpcData['es'][166610] = {name = "Chyrus", subname = "Dechado de la humildad"}
 MultiLanguageNpcData['es'][166611] = {name = "Competidor esquelético", subname = nil}
