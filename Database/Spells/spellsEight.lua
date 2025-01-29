@@ -1,3 +1,4 @@
+MultiLanguageSpellData['es'][464582] = {name = "Trituraolas goblin poco fiable", additional_info = "Alcance de 5 m\nInstante\n[q]Invoca y retira a un trituraolas goblin temporal que se puede montar."}
 MultiLanguageSpellData['es'][464587] = {name = "Recarga", additional_info = "Alcance de 100 m\nHechizo de 1 seg\n[q]Recarga un arma a distancia."}
 MultiLanguageSpellData['es'][464590] = {name = "Petate de la Luna Negra", additional_info = "Hechizo de 0.1 seg\n[q]Al transcribir un naipe de la Luna Negra de Khaz Algar, hay un 0% de probabilidades de crear otro.\n\n [ El efecto requiere inscripción de Khaz Algar 1 ][ El efecto requiere inscripción de Khaz Algar 1 ]"}
 MultiLanguageSpellData['es'][464593] = {name = "Seda enredadora", additional_info = nil}
@@ -186,7 +187,6 @@ MultiLanguageSpellData['es'][465024] = {name = "Protección ancestral", addition
 MultiLanguageSpellData['es'][465030] = {name = "Rugido balbuceante", additional_info = "Alcance de 100 m\nInstante\n[q]Una terrible cacofonía de sonidos guturales perturba la tierra en derredor, lo que reduce un 50% el daño recibido por el taumaturgo durante 5 sec, ralentiza un 50% a los enemigos cercanos e inflige 7 p. de daño físico cada 1 s durante 5 sec."}
 MultiLanguageSpellData['es'][465033] = {name = "Rugido balbuceante", additional_info = "Alcance de 10 m\nHechizo de 1 seg\n[q]Una terrible cacofonía de sonidos guturales perturba la tierra en derredor, lo que reduce un 50% el daño recibido por el taumaturgo durante 5 sec, ralentiza un 50% a los enemigos cercanos e inflige 7 p. de daño físico cada 1 s durante 5 sec."}
 MultiLanguageSpellData['es'][465050] = {name = "Depredación", additional_info = nil}
-MultiLanguageSpellData['es'][465051] = {name = "Trato de Xal'atath: Devorar", additional_info = "[q0]Afijos míticos+\nAlcance de 100 m\nHechizo de 4 seg\n[q]Xal'atath abre unas fallas que devoran la esencia de los jugadores, que reciben una cantidad de daño de las Sombras equivalente a un 1% de su salud máxima cada 1 s durante 15 sec. Tras 15 sec, la falla de Vacío libera su energía para sanar a los enemigos un 2% de su salud máxima cada 2 s durante 10 sec. Este efecto se acumula.\n\n La falla de Vacío entra en colapso cuando se disipa o cuando el jugador objetivo recibe 47 p. de sanación. El remanente de energía del Vacío potencia a los jugadores en combate, que obtienen un 4% de probabilidad de golpe crítico y un 2% de salud máxima durante 30 sec. Este efecto se acumula."}
 MultiLanguageSpellData['es'][465052] = {name = "Trato de Xal'atath: Devorar", additional_info = nil}
 MultiLanguageSpellData['es'][465060] = {name = "Ferromazo", additional_info = "Instante\n[q]Cada 3 ataques automáticos, el emperador Thaurissan golpea 3 veces más.\n(100ms de reutilización)"}
 MultiLanguageSpellData['es'][465062] = {name = "Ferromazo", additional_info = "Instante\n[q]Cada 3 ataques automáticos, el emperador Thaurissan golpea 3 veces más."}
@@ -892,8 +892,10 @@ MultiLanguageSpellData['es'][468159] = {name = "Agua oscura", additional_info = 
 MultiLanguageSpellData['es'][468162] = {name = "Hacha de leviatán", additional_info = "Alcance de ataques cuerpo a cuerpo\nHechizo de 2 seg\n[q]El taumaturgo potencia su arma para que aplique Agua oscura con los golpes cuerpo a cuerpo durante 6 sec."}
 MultiLanguageSpellData['es'][468179] = {name = "Patada del viento impetuoso", additional_info = "Instante\n[q]Lanzas una poderosa ráfaga de viento que inflige (359.5% of Attack power) p. de daño de Naturaleza en un cono de 25 m a los enemigos que tienes delante, a dividir a partes iguales entre todos ellos. El daño aumenta un 6% por cada objetivo golpeado, hasta un máximo de un 30%.\n\n Otorga Vientos impetuosos durante 4 sec, lo que aumenta un 100% la sanación de Niebla renovadora."}
 MultiLanguageSpellData['es'][468186] = {name = "Reven", additional_info = "Instante\n[q]Haz clic con el botón derecho del ratón para invocar y retirar a Reven."}
+MultiLanguageSpellData['es'][468205] = {name = "Serpiente alada de madera", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira a esta montura.\n[q]\"Una obra de arte que surca los cielos.\"\nTienda del juego"}
 MultiLanguageSpellData['es'][468219] = {name = "Objetivo del cazador", additional_info = "Instante\n[q]Disparo mortal golpeará a 1 objetivo adicional e infligirá un 10% más de daño por cada una de tus mascotas activas. Se acumula hasta 5 veces."}
 MultiLanguageSpellData['es'][468226] = {name = "Conducto de relámpagos", additional_info = "Instante\n[q]Existe la posibilidad de que te golpeen unos relámpagos que aumentarán un 50% tu velocidad de movimiento durante 5 sec. La efectividad aumenta a un 100% en zonas exteriores.\n\n Invocas Tormenta de truenos cuando usas Reencarnar."}
+MultiLanguageSpellData['es'][468228] = {name = "Culebrilla alada de madera", additional_info = "Instante\n[q]Haz clic con el botón derecho del ratón para invocar y retirar a este compañero."}
 MultiLanguageSpellData['es'][468231] = {name = "Oleada hundida", additional_info = "Alcance de 100 m\nInstante\n[q]Alrededor de la posición del taumaturgo orbita un vórtice que aplica Agua oscura a los enemigos con los que entra en contacto."}
 MultiLanguageSpellData['es'][468232] = {name = "Oleada hundida", additional_info = "Hechizo de 2 seg\n[q]Alrededor de la posición del taumaturgo orbita un vórtice que aplica Agua oscura a los enemigos con los que entra en contacto."}
 MultiLanguageSpellData['es'][468246] = {name = "Revolucionar", additional_info = "Alcance de 200 m\nInstante\n[q]Cuando se destruye un gólem, el resto de ellos inflige un 25% más de daño hasta el final del encuentro. Este efecto se acumula."}
@@ -1843,7 +1845,7 @@ MultiLanguageSpellData['es'][472655] = {name = "Prueba de corrección en vivo de
 MultiLanguageSpellData['es'][472696] = {name = "Desgarro del Vacío", additional_info = "{Instante} {18 seg de reutilización}\n[q]- Reposicionar\n- Acciones de relanzamiento\n- Ralentizar\n\n18 s de tiempo de reutilización\n Desgarra el Vacío para colocar una marca de Vacío. Vuelve a lanzar Desgarro del Vacío para regresar a la marca al instante, además de dañar y ralentizar a los enemigos.\n\n Se puede lanzar al mismo tiempo que otros hechizos."}
 MultiLanguageSpellData['es'][472701] = {name = "Ayudante", additional_info = nil}
 MultiLanguageSpellData['es'][472704] = {name = "Rasgar la realidad", additional_info = "{Instante} {1 seg de reutilización}\n[q]- Reposicionar\n- Acciones de relanzamiento\n- Ralentizar\n\n18 s de tiempo de reutilización\n Desgarra el Vacío para colocar una marca de Vacío. Vuelve a lanzar Desgarro del Vacío para regresar a la marca al instante, además de dañar y ralentizar a los enemigos.\n\n Se puede lanzar al mismo tiempo que otros hechizos."}
-MultiLanguageSpellData['es'][472725] = {name = "Galleta", additional_info = "Instante\n[q]Find someone to help pull open the cracker. One participant will receive a surprise."}
+MultiLanguageSpellData['es'][472725] = {name = "Galleta", additional_info = "Instante\n[q]Busca a alguien que te ayude a abrir el petardo. Uno de los participantes recibirá una sorpresa."}
 MultiLanguageSpellData['es'][472726] = {name = "Desgarro del Vacío", additional_info = nil}
 MultiLanguageSpellData['es'][472730] = {name = "Interactuar", additional_info = nil}
 MultiLanguageSpellData['es'][472738] = {name = "Tirando de la galleta", additional_info = nil}
@@ -2059,7 +2061,7 @@ MultiLanguageSpellData['es'][474653] = {name = "Utilidad: Llamar a Plumagalerna"
 MultiLanguageSpellData['es'][474658] = {name = "Luz de luna oscura", additional_info = "Rango ilimitado\nInstante\n[q]La luz de luna oscura reduce un 50% la velocidad de lanzamiento de hechizos."}
 MultiLanguageSpellData['es'][474672] = {name = "Tomando notas", additional_info = "Canalizado\n[q]Toma notas mientras Bargus y Angorla reparan el fragmento fracturado."}
 MultiLanguageSpellData['es'][474679] = {name = "Reviverrocas", additional_info = "Instante\n[q]Desatas la energía residual de las piedras y los guijarros inquietos cercanos para que te ayuden en el combate durante unos instantes."}
-MultiLanguageSpellData['es'][474688] = {name = "Desbloquear gruñoncito", additional_info = "Hechizo de 3 seg\n[q]Allows you to summon Grumplings using the Box of Puntables toy.\n [ Already known ]"}
+MultiLanguageSpellData['es'][474688] = {name = "Desbloquear gruñoncito", additional_info = "Hechizo de 3 seg\n[q]Te permite invocar gruñoncitos con el juguete caja de cosas pateables.\n [ Ya conocido ]"}
 MultiLanguageSpellData['es'][474690] = {name = "Invocar gruñoncito", additional_info = "Instante\n[q]Invoca gruñoncitos."}
 MultiLanguageSpellData['es'][474691] = {name = "Invocar gruñoncitos", additional_info = "Canalizado (Hechizo de 5 seg)\n[q]Invoca un pato enfurecido para que ayude en combate al taumaturgo."}
 MultiLanguageSpellData['es'][474698] = {name = "Reforjando", additional_info = "Canalizado (Hechizo de 0 seg)\n[q]Aprovecha las energías de la forja para reparar el exterior fracturado del fragmento."}
@@ -2209,6 +2211,7 @@ MultiLanguageSpellData['es'][1216089] = {name = "Recogiendo", additional_info = 
 MultiLanguageSpellData['es'][1216189] = {name = "Abriendo", additional_info = nil}
 MultiLanguageSpellData['es'][1216229] = {name = "Partida de Tol Dagor", additional_info = nil}
 MultiLanguageSpellData['es'][1216418] = {name = "Mochila experimental", additional_info = "Alcance de 100 m\nInstante\n[q]Te lanzas a la ubicación seleccionada."}
+MultiLanguageSpellData['es'][1216542] = {name = "Halcón de fuego real llameante", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira a un halcón de fuego real llameante que se puede montar. Es una montura voladora.\n[q]\"Solo las almas más apasionadas y con los corazones más fieros pueden reclamar como montura al halcón de fuego real llameante.\"\nPromoción"}
 MultiLanguageSpellData['es'][1216696] = {name = "Portal: ¿Gala de los regalos?...", additional_info = "Instante\n[q]Teletransporta al taumaturgo a Ventormenta."}
 MultiLanguageSpellData['es'][1216697] = {name = "Portal: ¿Gala de los regalos?...", additional_info = "Instante\n[q]Teletransporta al taumaturgo a la gala de los regalos."}
 MultiLanguageSpellData['es'][1216746] = {name = "Sorpresa de la caja de botín de Landro", additional_info = nil}
@@ -2233,3 +2236,9 @@ MultiLanguageSpellData['es'][1218030] = {name = "Arcón de grumete", additional_
 MultiLanguageSpellData['es'][1218099] = {name = "Bloqueador", additional_info = nil}
 MultiLanguageSpellData['es'][1218100] = {name = "Bloqueador", additional_info = nil}
 MultiLanguageSpellData['es'][1218101] = {name = "Bloqueador", additional_info = nil}
+MultiLanguageSpellData['es'][1218374] = {name = "Monitor", additional_info = nil}
+MultiLanguageSpellData['es'][1218980] = {name = "Eyectar pasajero 1", additional_info = nil}
+MultiLanguageSpellData['es'][1218981] = {name = "Carga con escudo", additional_info = "Alcance de 10 - 40 m\n{Instante} {5 seg de reutilización}\n[q]Reduce un 240% el daño recibido.\n\n Aumenta un 240% la velocidad de movimiento durante until canceled y repele a los enemigos cercanos a tu paso."}
+MultiLanguageSpellData['es'][1220498] = {name = "Teletransportar con error", additional_info = "Hechizo de 5 seg\n[q]Te teletransporta exactamente adonde quieres ir... si no eres muy exigente."}
+MultiLanguageSpellData['es'][1221338] = {name = "Dar patada al balón de fútbol", additional_info = "Alcance de 40 m\n{Instante} {5 seg de reutilización}\n[q]Lanza el balón a un jugador amistoso. Si es posible, te lo devolverá automáticamente."}
+MultiLanguageSpellData['es'][1221476] = {name = "Tracking Quest", additional_info = nil}

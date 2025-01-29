@@ -334,9 +334,7 @@ MultiLanguageNpcData['es'][121382] = {name = "Protectoras del Anillo de la Tierr
 MultiLanguageNpcData['es'][121383] = {name = "Protectoras del Anillo de la Tierra", subname = nil}
 MultiLanguageNpcData['es'][121384] = {name = "Libro de ficción animado", subname = nil}
 MultiLanguageNpcData['es'][121385] = {name = "Virtos", subname = "Elegida de la Luz"}
-MultiLanguageNpcData['es'][121386] = {name = "Fuerza de choque Kor'kron", subname = nil}
 MultiLanguageNpcData['es'][121387] = {name = "Fuerza de choque Kor'kron", subname = nil}
-MultiLanguageNpcData['es'][121388] = {name = "Fuerza de choque Kor'kron", subname = nil}
 MultiLanguageNpcData['es'][121389] = {name = "Fuerza de choque de la Séptima Legión", subname = nil}
 MultiLanguageNpcData['es'][121390] = {name = "Fuerza de choque de la Séptima Legión", subname = nil}
 MultiLanguageNpcData['es'][121391] = {name = "Fuerza de choque de la Séptima Legión", subname = nil}
@@ -345,7 +343,6 @@ MultiLanguageNpcData['es'][121393] = {name = "Azotador fortalecedor", subname = 
 MultiLanguageNpcData['es'][121394] = {name = "Baluarte forjado por la Luz", subname = nil}
 MultiLanguageNpcData['es'][121395] = {name = "Soldado de caballería forjado por la Luz", subname = nil}
 MultiLanguageNpcData['es'][121396] = {name = "Francotirador forjado por la Luz", subname = nil}
-MultiLanguageNpcData['es'][121397] = {name = "Sacerdote de guerra forjado por la Luz", subname = nil}
 MultiLanguageNpcData['es'][121398] = {name = "Maestro del acero Telaamon", subname = nil}
 MultiLanguageNpcData['es'][121399] = {name = "Inquisidor Sebilus", subname = nil}
 MultiLanguageNpcData['es'][121400] = {name = "Acusador Gnazh", subname = nil}
@@ -357,8 +354,6 @@ MultiLanguageNpcData['es'][121405] = {name = "Objetivo completado", subname = ni
 MultiLanguageNpcData['es'][121406] = {name = "Objetivo completado", subname = nil}
 MultiLanguageNpcData['es'][121407] = {name = "Objetivo completado", subname = nil}
 MultiLanguageNpcData['es'][121408] = {name = "Arator el Redentor", subname = nil}
-MultiLanguageNpcData['es'][121409] = {name = "Caballero de la Muerte de Ébano", subname = nil}
-MultiLanguageNpcData['es'][121410] = {name = "Vindicador Boros", subname = nil}
 MultiLanguageNpcData['es'][121411] = {name = "Mirmidón Cicatriz Espiral", subname = nil}
 MultiLanguageNpcData['es'][121412] = {name = "Guerrera del trueno", subname = nil}
 MultiLanguageNpcData['es'][121413] = {name = "Defensor del Ocaso de la Legión", subname = nil}
@@ -38185,6 +38180,7 @@ MultiLanguageNpcData['es'][166604] = {name = "Zo'umlo", subname = nil}
 MultiLanguageNpcData['es'][166605] = {name = "Caballero de la Espada de Ébano", subname = nil}
 MultiLanguageNpcData['es'][166606] = {name = "Caballero de la Espada de Ébano", subname = nil}
 MultiLanguageNpcData['es'][166607] = {name = "Telethakas", subname = nil}
+MultiLanguageNpcData['es'][166608] = {name = "Mueh'zala", subname = nil}
 MultiLanguageNpcData['es'][166609] = {name = "Chyrus", subname = "Dechado de la humildad"}
 MultiLanguageNpcData['es'][166610] = {name = "Chyrus", subname = "Dechado de la humildad"}
 MultiLanguageNpcData['es'][166611] = {name = "Competidor esquelético", subname = nil}

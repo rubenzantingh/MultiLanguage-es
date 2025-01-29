@@ -238,7 +238,6 @@ MultiLanguageNpcData['es'][409] = {name = "Niña - placeholder 06", subname = ni
 MultiLanguageNpcData['es'][410] = {name = "Niña - placeholder 07", subname = nil}
 MultiLanguageNpcData['es'][411] = {name = "Niña - placeholder 08", subname = nil}
 MultiLanguageNpcData['es'][412] = {name = "Puntos", subname = "Regalo del embalsamador"}
-MultiLanguageNpcData['es'][415] = {name = "Verner Osbien", subname = nil}
 MultiLanguageNpcData['es'][416] = {name = "Diablillo", subname = nil}
 MultiLanguageNpcData['es'][417] = {name = "Manáfago", subname = nil}
 MultiLanguageNpcData['es'][418] = {name = "Abisario inferior", subname = nil}

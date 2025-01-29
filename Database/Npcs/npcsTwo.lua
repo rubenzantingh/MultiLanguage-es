@@ -332,24 +332,16 @@ MultiLanguageNpcData['es'][65101] = {name = "Prole de Quelícera", subname = nil
 MultiLanguageNpcData['es'][65102] = {name = "Dafeng", subname = "Espíritu del viento antiguo"}
 MultiLanguageNpcData['es'][65103] = {name = "Huargo de estepa", subname = nil}
 MultiLanguageNpcData['es'][65104] = {name = "Wugou", subname = "Espíritu de la tierra antiguo"}
-MultiLanguageNpcData['es'][65105] = {name = "Shu", subname = "Espíritu del agua antiguo"}
 MultiLanguageNpcData['es'][65106] = {name = "Huargo de las llanuras sombrías", subname = nil}
-MultiLanguageNpcData['es'][65107] = {name = "Huo", subname = "Espíritu del fuego antiguo"}
 MultiLanguageNpcData['es'][65108] = {name = "Tiburón Hondaleta", subname = nil}
 MultiLanguageNpcData['es'][65109] = {name = "Devastador Muerdesombra", subname = nil}
-MultiLanguageNpcData['es'][65110] = {name = "Perforador Pielroca", subname = nil}
 MultiLanguageNpcData['es'][65111] = {name = "Defensor de Espinazo del Dragón", subname = nil}
 MultiLanguageNpcData['es'][65112] = {name = "Poni de la pradera", subname = nil}
 MultiLanguageNpcData['es'][65113] = {name = "Caballo mesteño de la pradera", subname = nil}
-MultiLanguageNpcData['es'][65114] = {name = "Len el Martillo", subname = "Instructor de herrería"}
 MultiLanguageNpcData['es'][65115] = {name = "Venado Ramaeterna", subname = nil}
 MultiLanguageNpcData['es'][65116] = {name = "Cierva Ramaeterna", subname = nil}
-MultiLanguageNpcData['es'][65117] = {name = "Cervato Ramaeterna", subname = nil}
-MultiLanguageNpcData['es'][65118] = {name = "Puercoespín Lomopincho", subname = nil}
-MultiLanguageNpcData['es'][65119] = {name = "Ola de dolor", subname = nil}
 MultiLanguageNpcData['es'][65120] = {name = "Azotador Helechoscuro", subname = nil}
 MultiLanguageNpcData['es'][65121] = {name = "Cuero Limpio", subname = "Instructor de peletería"}
-MultiLanguageNpcData['es'][65122] = {name = "Cabra de las altas llanuras", subname = nil}
 MultiLanguageNpcData['es'][65123] = {name = "Libro", subname = nil}
 MultiLanguageNpcData['es'][65125] = {name = "Basilisco marcapiedra", subname = nil}
 MultiLanguageNpcData['es'][65126] = {name = "Arácnido Polvohueso", subname = nil}
