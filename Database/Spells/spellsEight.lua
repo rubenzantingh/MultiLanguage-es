@@ -187,6 +187,7 @@ MultiLanguageSpellData['es'][465024] = {name = "Protección ancestral", addition
 MultiLanguageSpellData['es'][465030] = {name = "Rugido balbuceante", additional_info = "Alcance de 100 m\nInstante\n[q]Una terrible cacofonía de sonidos guturales perturba la tierra en derredor, lo que reduce un 50% el daño recibido por el taumaturgo durante 5 sec, ralentiza un 50% a los enemigos cercanos e inflige 7 p. de daño físico cada 1 s durante 5 sec."}
 MultiLanguageSpellData['es'][465033] = {name = "Rugido balbuceante", additional_info = "Alcance de 10 m\nHechizo de 1 seg\n[q]Una terrible cacofonía de sonidos guturales perturba la tierra en derredor, lo que reduce un 50% el daño recibido por el taumaturgo durante 5 sec, ralentiza un 50% a los enemigos cercanos e inflige 7 p. de daño físico cada 1 s durante 5 sec."}
 MultiLanguageSpellData['es'][465050] = {name = "Depredación", additional_info = nil}
+MultiLanguageSpellData['es'][465051] = {name = "Trato de Xal'atath: Devorar", additional_info = "[q0]Afijos míticos+\nAlcance de 100 m\nHechizo de 4 seg\n[q]Xal'atath abre unas fallas que devoran la esencia de los jugadores, que reciben una cantidad de daño de las Sombras equivalente a un 1% de su salud máxima cada 1 s durante 15 sec. Tras 15 sec, la falla de Vacío libera su energía para sanar a los enemigos un 2% de su salud máxima cada 2 s durante 10 sec. Este efecto se acumula.\n\n La falla de Vacío entra en colapso cuando se disipa o cuando el jugador objetivo recibe 47 p. de sanación. El remanente de energía del Vacío potencia a los jugadores en combate, que obtienen un 4% de probabilidad de golpe crítico y un 2% de salud máxima durante 30 sec. Este efecto se acumula."}
 MultiLanguageSpellData['es'][465052] = {name = "Trato de Xal'atath: Devorar", additional_info = nil}
 MultiLanguageSpellData['es'][465060] = {name = "Ferromazo", additional_info = "Instante\n[q]Cada 3 ataques automáticos, el emperador Thaurissan golpea 3 veces más.\n(100ms de reutilización)"}
 MultiLanguageSpellData['es'][465062] = {name = "Ferromazo", additional_info = "Instante\n[q]Cada 3 ataques automáticos, el emperador Thaurissan golpea 3 veces más."}
@@ -1704,7 +1705,7 @@ MultiLanguageSpellData['es'][471683] = {name = "Tromba celestial", additional_in
 MultiLanguageSpellData['es'][471696] = {name = "Corvagarfio", additional_info = "Hechizo de 1.5 seg\n[q]Invoca y retira a esta montura.\n\n Esta montura puede usar Acompañar.\n[q]\"Corvagarfio navegó con los Bucaneros Velasangre y, más tarde, con los Asaltantes Aguasnegras, pero abandonó a su tripulación para ver qué botín le esperaba más allá de alta mar.\"\nEvento especial:\nPlunderstorm"}
 MultiLanguageSpellData['es'][471697] = {name = "Aprender hechizo: Corvagarfio", additional_info = nil}
 MultiLanguageSpellData['es'][471706] = {name = "Llamada de la tormenta", additional_info = "Alcance de 30 m\nHechizo de 5 seg\n[q]El taumaturgo invoca una potente explosión de relámpagos que inflige 100 p. de daño de Naturaleza a los enemigos en un radio de 30 m."}
-MultiLanguageSpellData['es'][471717] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg) 18 seg de reutilización\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n18 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
+MultiLanguageSpellData['es'][471717] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg)\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n18 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
 MultiLanguageSpellData['es'][471722] = {name = "Teletransporte", additional_info = nil}
 MultiLanguageSpellData['es'][471726] = {name = "Teletransporte", additional_info = nil}
 MultiLanguageSpellData['es'][471727] = {name = "Teletransporte", additional_info = nil}
@@ -1794,7 +1795,7 @@ MultiLanguageSpellData['es'][472337] = {name = "Orbe de doblegaolas Marea Oscura
 MultiLanguageSpellData['es'][472353] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472360] = {name = "Farol de vrykul descarriado", additional_info = "Instante\n[q]Al lanzar una facultad principal de tu clase, te imbuye de la ferocidad de los espíritus vrykul, lo que te otorga 171 p. de golpe crítico durante 8 sec.\n\n La duración de este efecto aumenta hasta un máximo de 40 s según la última vez que se te imbuyó."}
 MultiLanguageSpellData['es'][472370] = {name = "Explosión de roca", additional_info = nil}
-MultiLanguageSpellData['es'][472390] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg) 16 seg de reutilización\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n16 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
+MultiLanguageSpellData['es'][472390] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg)\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n16 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
 MultiLanguageSpellData['es'][472391] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472392] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472393] = {name = "Tromba celestial", additional_info = nil}
@@ -1807,8 +1808,8 @@ MultiLanguageSpellData['es'][472399] = {name = "Tromba celestial", additional_in
 MultiLanguageSpellData['es'][472400] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472401] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472402] = {name = "Tromba celestial", additional_info = nil}
-MultiLanguageSpellData['es'][472403] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg) 14 seg de reutilización\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n14 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
-MultiLanguageSpellData['es'][472406] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg) 12 seg de reutilización\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n12 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
+MultiLanguageSpellData['es'][472403] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg)\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n14 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
+MultiLanguageSpellData['es'][472406] = {name = "Tromba celestial", additional_info = "Canalizado (Hechizo de 2 seg)\n[q]- Ataque en línea\n- Mantener para cargar\n- Alcance extremo\n\n12 s de tiempo de reutilización\n Invoca una tromba de rayos de luna que daña a los enemigos.\n\n Mantén para aumentar el alcance."}
 MultiLanguageSpellData['es'][472407] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472408] = {name = "Tromba celestial", additional_info = nil}
 MultiLanguageSpellData['es'][472409] = {name = "Tromba celestial", additional_info = nil}
@@ -2242,3 +2243,7 @@ MultiLanguageSpellData['es'][1218981] = {name = "Carga con escudo", additional_i
 MultiLanguageSpellData['es'][1220498] = {name = "Teletransportar con error", additional_info = "Hechizo de 5 seg\n[q]Te teletransporta exactamente adonde quieres ir... si no eres muy exigente."}
 MultiLanguageSpellData['es'][1221338] = {name = "Dar patada al balón de fútbol", additional_info = "Alcance de 40 m\n{Instante} {5 seg de reutilización}\n[q]Lanza el balón a un jugador amistoso. Si es posible, te lo devolverá automáticamente."}
 MultiLanguageSpellData['es'][1221476] = {name = "Tracking Quest", additional_info = nil}
+MultiLanguageSpellData['es'][1223890] = {name = "Aura de fanatismo", additional_info = nil}
+MultiLanguageSpellData['es'][1223891] = {name = "Aura de fanatismo", additional_info = nil}
+MultiLanguageSpellData['es'][1223893] = {name = "Aura de fanatismo", additional_info = nil}
+MultiLanguageSpellData['es'][1223894] = {name = "Aura de fanatismo", additional_info = nil}
