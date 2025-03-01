@@ -292,6 +292,7 @@ MultiLanguageSpellData['es'][465448] = {name = "Invocar terráneo", additional_i
 MultiLanguageSpellData['es'][465449] = {name = "Invocar terráneo", additional_info = nil}
 MultiLanguageSpellData['es'][465464] = {name = "Machaque arqueado", additional_info = "Alcance de ataques cuerpo a cuerpo\nHechizo de 2 seg 5 seg de reutilización\n[q]Inflige un 200% del daño cuerpo a cuerpo normal a los enemigos en un cono frente al taumaturgo."}
 MultiLanguageSpellData['es'][465469] = {name = "Cavar", additional_info = nil}
+MultiLanguageSpellData['es'][465518] = {name = "Arsenal: blasones dorados del reino", additional_info = "Instante\n[q]Reúne las apariencias de los blasones dorados del reino."}
 MultiLanguageSpellData['es'][465521] = {name = "Fragor de las Sombras", additional_info = "Alcance de 100 m\nInstante\n[q]Apunta y lanza una descarga de energía de las Sombras que se desplaza lentamente e inflige (68.7926% of Spell power) p. de daño de las Sombras a todos los enemigos en un radio de 8 m.\n\nGenera 6 p. de demencia.\n\n Este hechizo se lanza a la ubicación elegida."}
 MultiLanguageSpellData['es'][465522] = {name = "Fragor de las Sombras", additional_info = "Alcance de 100 m\nInstante\n[q]Apunta y lanza una descarga de energía de las Sombras que se desplaza lentamente e inflige (68.7926% of Spell power) p. de daño de las Sombras a todos los enemigos en un radio de 8 m.\n\nGenera 6 p. de demencia.\n\n Este hechizo se lanza a la ubicación elegida."}
 MultiLanguageSpellData['es'][465529] = {name = "Lluvia marchitadora", additional_info = "Alcance de 40 mHechizo de 2 seg 12 seg de reutilización\n[q]Lanza una salva de agua tóxica que inflige 48 p. de daño de Naturaleza en la zona."}
@@ -2247,3 +2248,5 @@ MultiLanguageSpellData['es'][1223890] = {name = "Aura de fanatismo", additional_
 MultiLanguageSpellData['es'][1223891] = {name = "Aura de fanatismo", additional_info = nil}
 MultiLanguageSpellData['es'][1223893] = {name = "Aura de fanatismo", additional_info = nil}
 MultiLanguageSpellData['es'][1223894] = {name = "Aura de fanatismo", additional_info = nil}
+MultiLanguageSpellData['es'][1227060] = {name = "Refrigerio", additional_info = "Alcance de 40 m\nInstante\n[q]Restaura ( 630000 / 5 * 15) p. de salud durante 15 sec. Si pasas al menos 15 s comiendo, sentirás el amor y aumentará tu moral durante 2 hrs."}
+MultiLanguageSpellData['es'][1227061] = {name = "Crunching", additional_info = "Instante\n[q]Restaura ( 630000 / 5 * 15) p. de salud durante 15 sec."}
