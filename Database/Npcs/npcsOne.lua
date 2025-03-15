@@ -18765,7 +18765,6 @@ MultiLanguageNpcData['es'][26619] = {name = "Paracaidista de Palanqueta", subnam
 MultiLanguageNpcData['es'][26620] = {name = "Guardián Drakkari", subname = nil}
 MultiLanguageNpcData['es'][26621] = {name = "Torturador necrófago", subname = nil}
 MultiLanguageNpcData['es'][26622] = {name = "Murciélago Drakkari", subname = nil}
-MultiLanguageNpcData['es'][26623] = {name = "Tosco de la Plaga", subname = nil}
 MultiLanguageNpcData['es'][26624] = {name = "Eructador desdichado", subname = nil}
 MultiLanguageNpcData['es'][26625] = {name = "Ermitaña Tejeoscura", subname = nil}
 MultiLanguageNpcData['es'][26626] = {name = "Reanimador de la Plaga", subname = nil}
