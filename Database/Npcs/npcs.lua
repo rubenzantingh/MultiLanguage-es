@@ -11214,6 +11214,7 @@ MultiLanguageNpcData['es'][17572] = {name = "Outland Doomguard (Purple)", subnam
 MultiLanguageNpcData['es'][17573] = {name = "Outland Doomguard (Yellow)", subname = nil}
 MultiLanguageNpcData['es'][17574] = {name = "Outland Lobstrok (Purple)", subname = nil}
 MultiLanguageNpcData['es'][17576] = {name = "Outland Mountain Giant (Zangar Marsh)", subname = nil}
+MultiLanguageNpcData['es'][17577] = {name = "Outland Mountain Giant (Netherstorm)", subname = nil}
 MultiLanguageNpcData['es'][17578] = {name = "Muñeco de entrenamiento de Fuego Infernal", subname = nil}
 MultiLanguageNpcData['es'][17579] = {name = "Outland Lobstrok (Yellow)", subname = nil}
 MultiLanguageNpcData['es'][17580] = {name = "Outland Lobstrok (White)", subname = nil}
