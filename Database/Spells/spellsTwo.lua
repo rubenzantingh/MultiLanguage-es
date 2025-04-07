@@ -20551,3 +20551,4 @@ MultiLanguageSpellData['es'][1227666] = {name = "Don del Vuelo Azul", additional
 MultiLanguageSpellData['es'][1227909] = {name = "Protocolo Crepúsculo", additional_info = nil}
 MultiLanguageSpellData['es'][1229476] = {name = "Vacío de maná", additional_info = "Instante\n[q]Absorbe un 100% de maná durante 5 s."}
 MultiLanguageSpellData['es'][1230531] = {name = "Don del Vuelo Azul", additional_info = nil}
+MultiLanguageSpellData['es'][1231991] = {name = "Cooldown Creature Special", additional_info = "Instante"}
