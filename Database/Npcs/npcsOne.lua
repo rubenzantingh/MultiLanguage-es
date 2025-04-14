@@ -40542,7 +40542,6 @@ MultiLanguageNpcData['es'][54270] = {name = "Sayón", subname = "Asaltantes de W
 MultiLanguageNpcData['es'][54271] = {name = "Riding Hippogryph (Neutral)", subname = nil}
 MultiLanguageNpcData['es'][54272] = {name = "Burbuja", subname = "<Mascota de cazador>"}
 MultiLanguageNpcData['es'][54273] = {name = "Guz'tul", subname = "<Mascota de brujo>"}
-MultiLanguageNpcData['es'][54274] = {name = "Alfazaque Rociamagma", subname = nil}
 MultiLanguageNpcData['es'][54275] = {name = "Víboris Lengua de Ceniza", subname = nil}
 MultiLanguageNpcData['es'][54276] = {name = "Serpiente Erraceniza", subname = nil}
 MultiLanguageNpcData['es'][54277] = {name = "Gusano luciente", subname = nil}
