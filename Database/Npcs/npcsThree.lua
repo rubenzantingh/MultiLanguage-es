@@ -37684,7 +37684,7 @@ MultiLanguageNpcData['es'][166019] = {name = "Polilla brillante", subname = nil}
 MultiLanguageNpcData['es'][166020] = {name = "Acechador invisible", subname = nil}
 MultiLanguageNpcData['es'][166021] = {name = "Marcador de senda", subname = nil}
 MultiLanguageNpcData['es'][166022] = {name = "Vulpino receloso", subname = nil}
-MultiLanguageNpcData['es'][166023] = {name = "Guía del laberinto del mono", subname = nil}
+MultiLanguageNpcData['es'][166023] = {name = "Guía del laberinto del mono", subname = "se eliminará"}
 MultiLanguageNpcData['es'][166024] = {name = "Potro rúnico asustadizo", subname = nil}
 MultiLanguageNpcData['es'][166025] = {name = "Tramoyista", subname = "Compañía de Teatro Luz Estelar"}
 MultiLanguageNpcData['es'][166026] = {name = "Sirviente de Mueh'zala", subname = nil}
@@ -37727,7 +37727,7 @@ MultiLanguageNpcData['es'][166069] = {name = "Reserva del señor del diezmo", su
 MultiLanguageNpcData['es'][166070] = {name = "Arrollador", subname = "Tabernero"}
 MultiLanguageNpcData['es'][166071] = {name = "Boggart", subname = nil}
 MultiLanguageNpcData['es'][166073] = {name = "Gran polilla de Arden", subname = nil}
-MultiLanguageNpcData['es'][166074] = {name = "Pseudobasura", subname = nil}
+MultiLanguageNpcData['es'][166074] = {name = "Pseudobasura", subname = "me sustituirán por basura"}
 MultiLanguageNpcData['es'][166075] = {name = "Polilla de Arden alamagna", subname = nil}
 MultiLanguageNpcData['es'][166076] = {name = "Mats", subname = "Mercancías extraviadas y reparaciones"}
 MultiLanguageNpcData['es'][166077] = {name = "Relicario de Almas", subname = nil}
