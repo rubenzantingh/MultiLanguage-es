@@ -11206,15 +11206,11 @@ MultiLanguageNpcData['es'][17684] = {name = "Vindicador Boros", subname = "Triun
 MultiLanguageNpcData['es'][17686] = {name = "Investigador Cornelius", subname = nil}
 MultiLanguageNpcData['es'][17687] = {name = "Flecha incendiaria", subname = nil}
 MultiLanguageNpcData['es'][17688] = {name = "Elemento de misión de captura de la guardia de la Corona de la Horda", subname = nil}
-MultiLanguageNpcData['es'][17689] = {name = "Elemento de misión de captura de la guardia de la Corona", subname = nil}
-MultiLanguageNpcData['es'][17690] = {name = "Elemento de misión de captura de la muralla del Este", subname = nil}
 MultiLanguageNpcData['es'][17691] = {name = "Elemento de misión de captura de la muralla del este de la Horda", subname = nil}
 MultiLanguageNpcData['es'][17693] = {name = "Explorador Mano Destrozada", subname = nil}
 MultiLanguageNpcData['es'][17694] = {name = "Taumaturgo oscuro Sombraluna", subname = nil}
 MultiLanguageNpcData['es'][17695] = {name = "Asesino Mano Destrozada", subname = nil}
-MultiLanguageNpcData['es'][17696] = {name = "Elemento de misión de captura del Paso Norte", subname = nil}
 MultiLanguageNpcData['es'][17697] = {name = "Elemento de misión de captura del Paso Norte de la Horda", subname = nil}
-MultiLanguageNpcData['es'][17698] = {name = "Elemento de misión de captura del Bosque de la Peste", subname = nil}
 MultiLanguageNpcData['es'][17699] = {name = "Elemento de misión de captura de la Horda en el Bosque de la Peste", subname = nil}
 MultiLanguageNpcData['es'][17700] = {name = "Voluntad de Sargeras", subname = nil}
 MultiLanguageNpcData['es'][17701] = {name = "Lord Xiz", subname = nil}
@@ -15100,7 +15096,6 @@ MultiLanguageNpcData['es'][22291] = {name = "Guardia de horno", subname = nil}
 MultiLanguageNpcData['es'][22292] = {name = "Rilak el Redimido", subname = nil}
 MultiLanguageNpcData['es'][22293] = {name = "Atracador vil inactivo", subname = nil}
 MultiLanguageNpcData['es'][22295] = {name = "Autómata Forja Muerta", subname = nil}
-MultiLanguageNpcData['es'][22296] = {name = "Mystery Mask Summon Bunny", subname = nil}
 MultiLanguageNpcData['es'][22297] = {name = "Alto señor guardia del trono", subname = nil}
 MultiLanguageNpcData['es'][22298] = {name = "Alma de fuego vil", subname = nil}
 MultiLanguageNpcData['es'][22299] = {name = "Zancasporas", subname = nil}
@@ -27299,7 +27294,7 @@ MultiLanguageNpcData['es'][37844] = {name = "Imagen de Anasterian", subname = ni
 MultiLanguageNpcData['es'][37845] = {name = "Imagen de Morlen Manosfrías", subname = nil}
 MultiLanguageNpcData['es'][37846] = {name = "Reina de Sangre Lana'thel", subname = "Los San'layn"}
 MultiLanguageNpcData['es'][37847] = {name = "Mankrik", subname = nil}
-MultiLanguageNpcData['es'][37848] = {name = "Flashback Quilboar", subname = nil}
+MultiLanguageNpcData['es'][37848] = {name = "Flashback Quilboar", subname = "PH> <Tribu Erizapúas"}
 MultiLanguageNpcData['es'][37849] = {name = "Imagen de Sartharion", subname = nil}
 MultiLanguageNpcData['es'][37850] = {name = "Imagen de Anub'Rekhan", subname = nil}
 MultiLanguageNpcData['es'][37851] = {name = "Imagen de Noth el Pesteador", subname = nil}
@@ -34437,8 +34432,8 @@ MultiLanguageNpcData['es'][46476] = {name = "Rastreador Yoro", subname = nil}
 MultiLanguageNpcData['es'][46477] = {name = "Crocolisco joven", subname = nil}
 MultiLanguageNpcData['es'][46478] = {name = "Avizor Vallealto", subname = nil}
 MultiLanguageNpcData['es'][46479] = {name = "Kelsey Chispacero", subname = "Operaciones especiales de Gnomeregan"}
-MultiLanguageNpcData['es'][46480] = {name = "Kyle Radue", subname = nil}
-MultiLanguageNpcData['es'][46481] = {name = "Dawn Radue", subname = nil}
+MultiLanguageNpcData['es'][46480] = {name = "Kyle Radue", subname = "Test"}
+MultiLanguageNpcData['es'][46481] = {name = "Dawn Radue", subname = "Test"}
 MultiLanguageNpcData['es'][46482] = {name = "Mortimer Moloch", subname = nil}
 MultiLanguageNpcData['es'][46483] = {name = "Boticario renegado", subname = nil}
 MultiLanguageNpcData['es'][46484] = {name = "Alamuerte", subname = "Aspecto de la Muerte"}
@@ -36366,7 +36361,6 @@ MultiLanguageNpcData['es'][48540] = {name = "Vástago verde liberado", subname =
 MultiLanguageNpcData['es'][48541] = {name = "Vástago azul liberado", subname = nil}
 MultiLanguageNpcData['es'][48542] = {name = "Vástago bronce liberado", subname = nil}
 MultiLanguageNpcData['es'][48543] = {name = "Falling Rubble Bunny", subname = nil}
-MultiLanguageNpcData['es'][48544] = {name = "\"Rite of Vision\" Kill Credit", subname = nil}
 MultiLanguageNpcData['es'][48545] = {name = "Gran señor de la guerra Cromush", subname = nil}
 MultiLanguageNpcData['es'][48546] = {name = "Capitán Winky", subname = "Némesis de Oralius"}
 MultiLanguageNpcData['es'][48547] = {name = "Harrison Jones", subname = nil}
@@ -38307,7 +38301,6 @@ MultiLanguageNpcData['es'][51131] = {name = "Ganadero Martillo Salvaje", subname
 MultiLanguageNpcData['es'][51132] = {name = "Beam Target Bunny", subname = nil}
 MultiLanguageNpcData['es'][51134] = {name = "Obelisk Explosion Bunny", subname = nil}
 MultiLanguageNpcData['es'][51135] = {name = "Beam Target Bunny", subname = nil}
-MultiLanguageNpcData['es'][51137] = {name = "Horde Zeppelin Sound Bunny", subname = nil}
 MultiLanguageNpcData['es'][51139] = {name = "Huevo de aguilón", subname = nil}
 MultiLanguageNpcData['es'][51140] = {name = "Calen", subname = nil}
 MultiLanguageNpcData['es'][51141] = {name = "Montura de grifo de Barbafuego", subname = nil}
@@ -40537,11 +40530,11 @@ MultiLanguageNpcData['es'][54265] = {name = "Danric", subname = "Asaltantes de W
 MultiLanguageNpcData['es'][54266] = {name = "Raena", subname = "Asaltantes de Wrynn"}
 MultiLanguageNpcData['es'][54267] = {name = "Victoria", subname = "Asaltantes de Wrynn"}
 MultiLanguageNpcData['es'][54268] = {name = "Carantoñas", subname = "Asaltantes de Wrynn"}
-MultiLanguageNpcData['es'][54269] = {name = "Garl Tremendollorica", subname = "Asaltantes de Wrynn"}
 MultiLanguageNpcData['es'][54270] = {name = "Sayón", subname = "Asaltantes de Wrynn"}
 MultiLanguageNpcData['es'][54271] = {name = "Riding Hippogryph (Neutral)", subname = nil}
 MultiLanguageNpcData['es'][54272] = {name = "Burbuja", subname = "<Mascota de cazador>"}
 MultiLanguageNpcData['es'][54273] = {name = "Guz'tul", subname = "<Mascota de brujo>"}
+MultiLanguageNpcData['es'][54274] = {name = "Alfazaque Rociamagma", subname = nil}
 MultiLanguageNpcData['es'][54275] = {name = "Víboris Lengua de Ceniza", subname = nil}
 MultiLanguageNpcData['es'][54276] = {name = "Serpiente Erraceniza", subname = nil}
 MultiLanguageNpcData['es'][54277] = {name = "Gusano luciente", subname = nil}
@@ -40553,7 +40546,6 @@ MultiLanguageNpcData['es'][54282] = {name = "Pezuña Brillante", subname = "Desc
 MultiLanguageNpcData['es'][54283] = {name = "Quincy", subname = "Descarnadores de Thrall"}
 MultiLanguageNpcData['es'][54284] = {name = "Cenicienta", subname = "Descarnadores de Thrall"}
 MultiLanguageNpcData['es'][54285] = {name = "Stabu", subname = "Descarnadores de Thrall"}
-MultiLanguageNpcData['es'][54286] = {name = "Johnny Fenómeno", subname = "Descarnadores de Thrall"}
 MultiLanguageNpcData['es'][54287] = {name = "Muertek", subname = "Descarnadores de Thrall"}
 MultiLanguageNpcData['es'][54288] = {name = "Fulgor", subname = "Mascota de Johnny Fenómeno"}
 MultiLanguageNpcData['es'][54289] = {name = "Kazdum", subname = "Mascota de Cindelonia"}

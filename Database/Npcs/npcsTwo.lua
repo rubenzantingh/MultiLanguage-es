@@ -39636,7 +39636,6 @@ MultiLanguageNpcData['es'][112441] = {name = "Robert Newhearth", subname = "Cons
 MultiLanguageNpcData['es'][112442] = {name = "Cazador de zorros Nocheterna", subname = nil}
 MultiLanguageNpcData['es'][112443] = {name = "Volpin", subname = "Zorro"}
 MultiLanguageNpcData['es'][112444] = {name = "Raptor volador de las Tierras Altas", subname = nil}
-MultiLanguageNpcData['es'][112445] = {name = "Johnny Fenómeno", subname = "Villa Maravilla"}
 MultiLanguageNpcData['es'][112446] = {name = "Crédito del 1%", subname = nil}
 MultiLanguageNpcData['es'][112447] = {name = "Crédito del 3%", subname = nil}
 MultiLanguageNpcData['es'][112448] = {name = "Crédito del 5%", subname = nil}
