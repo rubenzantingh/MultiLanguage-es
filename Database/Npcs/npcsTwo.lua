@@ -23654,7 +23654,7 @@ MultiLanguageNpcData['es'][92865] = {name = "Portador del alba Argenta", subname
 MultiLanguageNpcData['es'][92866] = {name = "Portador del alba Argenta", subname = nil}
 MultiLanguageNpcData['es'][92867] = {name = "Restos de Colmillofunesto en podredumbre", subname = nil}
 MultiLanguageNpcData['es'][92868] = {name = "Pimpollo de antárbol", subname = nil}
-MultiLanguageNpcData['es'][92870] = {name = "Furia de Sindragosa", subname = nil}
+MultiLanguageNpcData['es'][92870] = {name = "Furia de la vermis de escarcha", subname = nil}
 MultiLanguageNpcData['es'][92871] = {name = "Bocado de montura de Ysera", subname = nil}
 MultiLanguageNpcData['es'][92872] = {name = "Espíritu", subname = nil}
 MultiLanguageNpcData['es'][92873] = {name = "Torturaalmas jurapenas", subname = nil}
