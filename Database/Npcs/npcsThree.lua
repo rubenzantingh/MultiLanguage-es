@@ -6664,7 +6664,7 @@ MultiLanguageNpcData['es'][129318] = {name = "Cangrejo Huyearena", subname = nil
 MultiLanguageNpcData['es'][129319] = {name = "Guardafilado Tarkaj", subname = nil}
 MultiLanguageNpcData['es'][129320] = {name = "Pollo del Canal de la Perla (Tormenta)", subname = nil}
 MultiLanguageNpcData['es'][129321] = {name = "Pollo del Canal de la Perla (Corriente)", subname = nil}
-MultiLanguageNpcData['es'][129322] = {name = "Reorganizador de atuendo desplegable", subname = nil}
+MultiLanguageNpcData['es'][129322] = {name = "Reorganizador de atuendo desplegable", subname = "Transfigurador"}
 MultiLanguageNpcData['es'][129323] = {name = "Emperatriz colmisable", subname = nil}
 MultiLanguageNpcData['es'][129329] = {name = "Bracero de El Zócalo", subname = nil}
 MultiLanguageNpcData['es'][129330] = {name = "Guardafilado Tarkaj", subname = nil}
@@ -7117,7 +7117,7 @@ MultiLanguageNpcData['es'][129867] = {name = "Zepelín bombardero", subname = ni
 MultiLanguageNpcData['es'][129868] = {name = "Buitre de cañón", subname = nil}
 MultiLanguageNpcData['es'][129869] = {name = "Comerraíces hambriento", subname = nil}
 MultiLanguageNpcData['es'][129870] = {name = "Jabamaestro Lomozarza", subname = nil}
-MultiLanguageNpcData['es'][129871] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['es'][129871] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['es'][129872] = {name = "Vereesa Brisaveloz", subname = "General Forestal de El Pacto de Plata"}
 MultiLanguageNpcData['es'][129873] = {name = "Centinela de ruinas", subname = nil}
 MultiLanguageNpcData['es'][129874] = {name = "Trampero infiel", subname = nil}
@@ -26779,7 +26779,7 @@ MultiLanguageNpcData['es'][153080] = {name = "Voz de la reina", subname = "Guard
 MultiLanguageNpcData['es'][153081] = {name = "Juerguista de la Fiesta de la Cerveza", subname = nil}
 MultiLanguageNpcData['es'][153082] = {name = "Juerguista de la Fiesta de la Cerveza", subname = nil}
 MultiLanguageNpcData['es'][153083] = {name = "Vethan, el del corazón helado", subname = nil}
-MultiLanguageNpcData['es'][153084] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['es'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['es'][153085] = {name = "Paladín forjado por la Luz", subname = nil}
 MultiLanguageNpcData['es'][153086] = {name = "Sacerdote de guerra forjado por la Luz", subname = nil}
 MultiLanguageNpcData['es'][153087] = {name = "Baluarte forjado por la Luz", subname = nil}
@@ -29909,7 +29909,7 @@ MultiLanguageNpcData['es'][156660] = {name = "Capitana Garrick", subname = nil}
 MultiLanguageNpcData['es'][156661] = {name = "Varlasen", subname = nil}
 MultiLanguageNpcData['es'][156662] = {name = "Capitana Garrick", subname = nil}
 MultiLanguageNpcData['es'][156663] = {name = "Tejedor de distorsión Ta'oren", subname = "Transfigurador"}
-MultiLanguageNpcData['es'][156664] = {name = "Custodio de la cámara Ta'khis", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['es'][156664] = {name = "Custodio de la cámara Ta'khis", subname = nil}
 MultiLanguageNpcData['es'][156665] = {name = "Depredador de almas honorable", subname = nil}
 MultiLanguageNpcData['es'][156666] = {name = "Herrero Au'berk", subname = "Instructor de herrería"}
 MultiLanguageNpcData['es'][156667] = {name = "Despellejador Au'khem", subname = "Instructor de desuello"}

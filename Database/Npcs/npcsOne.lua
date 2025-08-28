@@ -10438,7 +10438,7 @@ MultiLanguageNpcData['es'][16882] = {name = "Consola numérica", subname = nil}
 MultiLanguageNpcData['es'][16883] = {name = "Montura de Silas", subname = nil}
 MultiLanguageNpcData['es'][16884] = {name = "Caballo de guerra", subname = nil}
 MultiLanguageNpcData['es'][16885] = {name = "Amythel Caminaniebla", subname = nil}
-MultiLanguageNpcData['es'][16886] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['es'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['es'][16887] = {name = "Ojo del Bastión del Honor", subname = nil}
 MultiLanguageNpcData['es'][16888] = {name = "Mahuram Pezuña Recia", subname = nil}
 MultiLanguageNpcData['es'][16889] = {name = "Celebrante de Ventormenta", subname = nil}
@@ -40633,7 +40633,7 @@ MultiLanguageNpcData['es'][54439] = {name = "Avatar de Piroclasto", subname = ni
 MultiLanguageNpcData['es'][54440] = {name = "Avatar de Shannox", subname = nil}
 MultiLanguageNpcData['es'][54441] = {name = "Taumaturgo Vashreen", subname = "Reforjador Arcano"}
 MultiLanguageNpcData['es'][54442] = {name = "Tejedor de distorsión Hashom", subname = "Transfigurador"}
-MultiLanguageNpcData['es'][54443] = {name = "Custodio de la cámara Razhid", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['es'][54443] = {name = "Custodio de la cámara Razhid", subname = nil}
 MultiLanguageNpcData['es'][54444] = {name = "Gnoll de la Feria de la Luna Negra", subname = nil}
 MultiLanguageNpcData['es'][54445] = {name = "Eco de Jaina", subname = nil}
 MultiLanguageNpcData['es'][54446] = {name = "Ascua de bengala del Núcleo", subname = nil}
@@ -40644,7 +40644,7 @@ MultiLanguageNpcData['es'][54466] = {name = "Gnoll de la Feria de la Luna Negra 
 MultiLanguageNpcData['es'][54467] = {name = "Viento arremolinado", subname = nil}
 MultiLanguageNpcData['es'][54470] = {name = "Producto de la añoranza", subname = nil}
 MultiLanguageNpcData['es'][54471] = {name = "Taumaturgo Zajir", subname = "Reforjador Arcano"}
-MultiLanguageNpcData['es'][54472] = {name = "Custodio de la cámara Jazra", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['es'][54472] = {name = "Custodio de la cámara Jazra", subname = nil}
 MultiLanguageNpcData['es'][54473] = {name = "Tejedor de distorsión Dushar", subname = "Transfigurador"}
 MultiLanguageNpcData['es'][54474] = {name = "Niebla del tiempo", subname = nil}
 MultiLanguageNpcData['es'][54475] = {name = "Cangrejo", subname = nil}
