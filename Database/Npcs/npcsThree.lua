@@ -30011,7 +30011,7 @@ MultiLanguageNpcData['es'][156794] = {name = "Cazador de luz del IV:7", subname 
 MultiLanguageNpcData['es'][156795] = {name = "Informador del IV:7", subname = nil}
 MultiLanguageNpcData['es'][156796] = {name = "Eterino salvaje", subname = nil}
 MultiLanguageNpcData['es'][156799] = {name = "Henry Garrick", subname = nil}
-MultiLanguageNpcData['es'][156800] = {name = "Intendente Richter", subname = "Suministros"}
+MultiLanguageNpcData['es'][156800] = {name = "Intendente Richter", subname = "Suministros y reparaciones"}
 MultiLanguageNpcData['es'][156801] = {name = "Soldado Cole", subname = nil}
 MultiLanguageNpcData['es'][156802] = {name = "Bomba rúnica", subname = nil}
 MultiLanguageNpcData['es'][156803] = {name = "Alaria", subname = nil}

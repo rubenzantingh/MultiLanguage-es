@@ -3577,7 +3577,6 @@ MultiLanguageNpcData['es'][69171] = {name = "Guerrero jaguar Zandalari", subname
 MultiLanguageNpcData['es'][69172] = {name = "Observador pétreo Sul'lithuz", subname = nil}
 MultiLanguageNpcData['es'][69173] = {name = "Hostigador Farraki", subname = nil}
 MultiLanguageNpcData['es'][69175] = {name = "Transitayermos Farraki", subname = nil}
-MultiLanguageNpcData['es'][69176] = {name = "Chamán de bestias Amani'shi", subname = nil}
 MultiLanguageNpcData['es'][69177] = {name = "Oso de guerra Amani", subname = nil}
 MultiLanguageNpcData['es'][69178] = {name = "Señor de la guerra congelado Drakkari", subname = nil}
 MultiLanguageNpcData['es'][69180] = {name = "Garracorvo domesticado", subname = nil}
