@@ -1,3 +1,4 @@
+MultiLanguageNpcData['es'][120958] = {name = "Caballero vil de Xoroth", subname = nil}
 MultiLanguageNpcData['es'][120959] = {name = "Pedido nuevo", subname = nil}
 MultiLanguageNpcData['es'][120961] = {name = "Impacto infernal", subname = nil}
 MultiLanguageNpcData['es'][120962] = {name = "Cantamareas Ondavil", subname = nil}
@@ -10794,13 +10795,8 @@ MultiLanguageNpcData['es'][134322] = {name = "Bendición de Kimbul", subname = n
 MultiLanguageNpcData['es'][134324] = {name = "Muñeco de entrenamiento", subname = nil}
 MultiLanguageNpcData['es'][134325] = {name = "Terrence Foster", subname = nil}
 MultiLanguageNpcData['es'][134326] = {name = "Explorador Lanza Negra", subname = nil}
-MultiLanguageNpcData['es'][134327] = {name = "Druida de guerra Loti", subname = "Consejo Zanchuli"}
-MultiLanguageNpcData['es'][134328] = {name = "Maestro de forja Lontananza", subname = nil}
 MultiLanguageNpcData['es'][134329] = {name = "Engendro de sangre", subname = nil}
-MultiLanguageNpcData['es'][134330] = {name = "Triciclo de guerra", subname = nil}
-MultiLanguageNpcData['es'][134331] = {name = "Rey Rahu'ai", subname = nil}
 MultiLanguageNpcData['es'][134332] = {name = "Capitana Tripaverde", subname = "Asaltantes de Tripaverde"}
-MultiLanguageNpcData['es'][134333] = {name = "Dorp", subname = "Asaltantes de Tripaverde"}
 MultiLanguageNpcData['es'][134338] = {name = "Déspota Sabiomar", subname = nil}
 MultiLanguageNpcData['es'][134339] = {name = "Acechador invisible", subname = nil}
 MultiLanguageNpcData['es'][134340] = {name = "Olamarina esclavo", subname = nil}
@@ -45776,4 +45772,3 @@ MultiLanguageNpcData['es'][175413] = {name = "Chispabrisa", subname = "Forjador 
 MultiLanguageNpcData['es'][175414] = {name = "Adera", subname = "Forjadora de armas de Nathria normal"}
 MultiLanguageNpcData['es'][175415] = {name = "Harkoth", subname = "Forjador de armas de Nathria heroico"}
 MultiLanguageNpcData['es'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['es'][175417] = {name = "Sulanoom", subname = "Forjadora de armas de Nathria mítica"}

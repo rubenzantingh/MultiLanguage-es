@@ -1,3 +1,4 @@
+MultiLanguageNpcData['es'][64753] = {name = "Sofi Náutica", subname = "Domador de mascotas"}
 MultiLanguageNpcData['es'][64754] = {name = "Jayneviento Patel", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['es'][64755] = {name = "Sharyn Filoplata", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['es'][64757] = {name = "Shonuf", subname = "El Tejefuego"}
@@ -3577,6 +3578,7 @@ MultiLanguageNpcData['es'][69171] = {name = "Guerrero jaguar Zandalari", subname
 MultiLanguageNpcData['es'][69172] = {name = "Observador pétreo Sul'lithuz", subname = nil}
 MultiLanguageNpcData['es'][69173] = {name = "Hostigador Farraki", subname = nil}
 MultiLanguageNpcData['es'][69175] = {name = "Transitayermos Farraki", subname = nil}
+MultiLanguageNpcData['es'][69176] = {name = "Chamán de bestias Amani'shi", subname = nil}
 MultiLanguageNpcData['es'][69177] = {name = "Oso de guerra Amani", subname = nil}
 MultiLanguageNpcData['es'][69178] = {name = "Señor de la guerra congelado Drakkari", subname = nil}
 MultiLanguageNpcData['es'][69180] = {name = "Garracorvo domesticado", subname = nil}
@@ -11016,23 +11018,15 @@ MultiLanguageNpcData['es'][78376] = {name = "Magic Effect Bunny", subname = nil}
 MultiLanguageNpcData['es'][78377] = {name = "Vidente Señor del Trueno", subname = nil}
 MultiLanguageNpcData['es'][78378] = {name = "Furia aérea", subname = nil}
 MultiLanguageNpcData['es'][78379] = {name = "Bomba de uñagrieta", subname = nil}
-MultiLanguageNpcData['es'][78380] = {name = "Felbreaker Credit", subname = nil}
 MultiLanguageNpcData['es'][78382] = {name = "Corazón de conejo de Gorgorek", subname = nil}
 MultiLanguageNpcData['es'][78383] = {name = "Bruta Lobo Gélido", subname = nil}
-MultiLanguageNpcData['es'][78384] = {name = "Bruto Lobo Gélido", subname = nil}
 MultiLanguageNpcData['es'][78385] = {name = "Colmiperla rumiante", subname = nil}
 MultiLanguageNpcData['es'][78386] = {name = "Tótem vinculador de espíritus de Borgal", subname = nil}
 MultiLanguageNpcData['es'][78387] = {name = "Colmiperla dominante", subname = nil}
 MultiLanguageNpcData['es'][78388] = {name = "Círculo de Invocación", subname = nil}
-MultiLanguageNpcData['es'][78389] = {name = "Cajón Lobo Gélido", subname = nil}
-MultiLanguageNpcData['es'][78390] = {name = "Devoramaná demenciado", subname = nil}
 MultiLanguageNpcData['es'][78391] = {name = "Draco Brillo Lunar", subname = nil}
 MultiLanguageNpcData['es'][78392] = {name = "Gallina cohete XL", subname = nil}
-MultiLanguageNpcData['es'][78393] = {name = "Tótem vinculador de llamas de Borgal", subname = nil}
-MultiLanguageNpcData['es'][78394] = {name = "Tótem vinculador de viento de Borgal", subname = nil}
 MultiLanguageNpcData['es'][78395] = {name = "Tótem vinculador de agua de Borgal", subname = nil}
-MultiLanguageNpcData['es'][78396] = {name = "Géiser de piedra", subname = nil}
-MultiLanguageNpcData['es'][78397] = {name = "Thisalee Cuervo", subname = "Druida de la Garfa"}
 MultiLanguageNpcData['es'][78400] = {name = "Rylak enjaulado", subname = nil}
 MultiLanguageNpcData['es'][78403] = {name = "Sparkle Bunny", subname = nil}
 MultiLanguageNpcData['es'][78404] = {name = "Rylak enjaulado", subname = nil}
@@ -29527,7 +29521,7 @@ MultiLanguageNpcData['es'][99993] = {name = "Xaxion Drak'eem", subname = nil}
 MultiLanguageNpcData['es'][99994] = {name = "Jorad Maza", subname = nil}
 MultiLanguageNpcData['es'][99995] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['es'][99996] = {name = "Leoric Von Zeldig", subname = nil}
-MultiLanguageNpcData['es'][99997] = {name = "Arator el Redentor", subname = nil}
+MultiLanguageNpcData['es'][99997] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['es'][99998] = {name = "Lord caballero Sangrevalor", subname = nil}
 MultiLanguageNpcData['es'][99999] = {name = "Lord Solanar Sangre Colérica", subname = nil}
 MultiLanguageNpcData['es'][100000] = {name = "Johnny Fenómeno", subname = nil}
@@ -46708,4 +46702,3 @@ MultiLanguageNpcData['es'][120954] = {name = "Estandarte de la Alianza", subname
 MultiLanguageNpcData['es'][120955] = {name = "Estandarte de la Horda", subname = nil}
 MultiLanguageNpcData['es'][120956] = {name = "Ídolo de Aviana purificado", subname = nil}
 MultiLanguageNpcData['es'][120957] = {name = "Desolación del acechador lunar", subname = nil}
-MultiLanguageNpcData['es'][120958] = {name = "Caballero vil de Xoroth", subname = nil}

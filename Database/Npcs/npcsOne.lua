@@ -23144,14 +23144,8 @@ MultiLanguageNpcData['es'][32163] = {name = "Can de Grimkor", subname = nil}
 MultiLanguageNpcData['es'][32164] = {name = "Artesano esquelético", subname = nil}
 MultiLanguageNpcData['es'][32165] = {name = "Twilight Drake Mount (Red)", subname = nil}
 MultiLanguageNpcData['es'][32166] = {name = "Twilight Drake Mount (Purple)", subname = nil}
-MultiLanguageNpcData['es'][32167] = {name = "Risen Skeleton KC Bunny", subname = nil}
-MultiLanguageNpcData['es'][32168] = {name = "Vicious Geist KC Bunny", subname = nil}
 MultiLanguageNpcData['es'][32169] = {name = "Arcanista Braedin", subname = "Mago de batalla de Conquista del Invierno"}
-MultiLanguageNpcData['es'][32170] = {name = "Magister Surdiel", subname = "Mago de batalla de Conquista del Invierno"}
 MultiLanguageNpcData['es'][32172] = {name = "Harold Winston", subname = "Vendedor de joyas"}
-MultiLanguageNpcData['es'][32173] = {name = "Necrópolis de Corona de Hielo", subname = nil}
-MultiLanguageNpcData['es'][32174] = {name = "Teleportation Portal (Elite)", subname = nil}
-MultiLanguageNpcData['es'][32175] = {name = "Zelote elegido", subname = nil}
 MultiLanguageNpcData['es'][32176] = {name = "Necrófago calado de peste", subname = nil}
 MultiLanguageNpcData['es'][32178] = {name = "Necrófago arrasador", subname = nil}
 MultiLanguageNpcData['es'][32179] = {name = "Tosco cosido", subname = nil}
@@ -47884,7 +47878,7 @@ MultiLanguageNpcData['es'][64570] = {name = "Tan Caña Fuerte", subname = "Vende
 MultiLanguageNpcData['es'][64571] = {name = "Pozo de Luz", subname = nil}
 MultiLanguageNpcData['es'][64572] = {name = "Sara Fusta Severa", subname = "Instructora de mascotas de duelo"}
 MultiLanguageNpcData['es'][64573] = {name = "Tejedor de distorsión Ramahesh", subname = "Transfigurador"}
-MultiLanguageNpcData['es'][64574] = {name = "Custodio de la cámara Edouin", subname = "Depósito del Vacío"}
+MultiLanguageNpcData['es'][64574] = {name = "Custodio de la cámara Edouin", subname = nil}
 MultiLanguageNpcData['es'][64575] = {name = "Chan Hoi-San", subname = "Refugiada de Kun-Lai"}
 MultiLanguageNpcData['es'][64576] = {name = "Bandido", subname = "Mascota de duelo"}
 MultiLanguageNpcData['es'][64577] = {name = "La Cigarra", subname = "Mascota de duelo"}
@@ -48044,4 +48038,3 @@ MultiLanguageNpcData['es'][64749] = {name = "Kur Zarpa Fiera", subname = "Domado
 MultiLanguageNpcData['es'][64750] = {name = "Rob Jackson", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['es'][64751] = {name = "Sra. Jackson", subname = "Domadora de mascotas"}
 MultiLanguageNpcData['es'][64752] = {name = "Taner Halicioglu", subname = "Domadora de mascotas"}
-MultiLanguageNpcData['es'][64753] = {name = "Sofi Náutica", subname = "Domador de mascotas"}
