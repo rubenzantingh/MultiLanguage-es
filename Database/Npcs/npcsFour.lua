@@ -9545,8 +9545,13 @@ MultiLanguageNpcData['es'][186909] = {name = "Oso pellejosombra", subname = nil}
 MultiLanguageNpcData['es'][186912] = {name = "Rabioso djaradin", subname = nil}
 MultiLanguageNpcData['es'][186913] = {name = "WoW Labs Winner", subname = nil}
 MultiLanguageNpcData['es'][186915] = {name = "Rompepuertas qalashi", subname = nil}
+MultiLanguageNpcData['es'][186917] = {name = "Soplo turbulento", subname = nil}
+MultiLanguageNpcData['es'][186918] = {name = "Soplo turbulento", subname = nil}
 MultiLanguageNpcData['es'][186919] = {name = "Soldado obsidiana", subname = nil}
+MultiLanguageNpcData['es'][186920] = {name = "Asidero", subname = nil}
+MultiLanguageNpcData['es'][186921] = {name = "Clamaventiscas Nai'jin", subname = nil}
 MultiLanguageNpcData['es'][186922] = {name = "Clamaventiscas Sin'tia", subname = nil}
+MultiLanguageNpcData['es'][186923] = {name = "Clamaventiscas Julh'ek", subname = nil}
 MultiLanguageNpcData['es'][186924] = {name = "Fénix de lava", subname = nil}
 MultiLanguageNpcData['es'][186925] = {name = "Compañero dragón azul", subname = nil}
 MultiLanguageNpcData['es'][186926] = {name = "Estandarte djaradin", subname = nil}
@@ -35503,7 +35508,7 @@ MultiLanguageNpcData['es'][219695] = {name = "Cenizabeja consumida", subname = n
 MultiLanguageNpcData['es'][219696] = {name = "Zángano tambaleante", subname = nil}
 MultiLanguageNpcData['es'][219697] = {name = "Glensera", subname = "Instructora de transformación"}
 MultiLanguageNpcData['es'][219699] = {name = "Miral Zarpasesina", subname = nil}
-MultiLanguageNpcData['es'][219701] = {name = "Celormu", subname = "[Dragonriding Trainer]"}
+MultiLanguageNpcData['es'][219701] = {name = "Celormu", subname = "Instructor de jinete de dragones"}
 MultiLanguageNpcData['es'][219702] = {name = "Carpintera de barcos Isaebela", subname = nil}
 MultiLanguageNpcData['es'][219705] = {name = "Supervisora Shalea", subname = nil}
 MultiLanguageNpcData['es'][219706] = {name = "Bronze Drake", subname = nil}
@@ -41839,7 +41844,7 @@ MultiLanguageNpcData['es'][227756] = {name = "Cabrolito salvaje", subname = nil}
 MultiLanguageNpcData['es'][227757] = {name = "Halcón marino", subname = nil}
 MultiLanguageNpcData['es'][227758] = {name = "Alleria Brisaveloz", subname = nil}
 MultiLanguageNpcData['es'][227759] = {name = "Incondicional arathi", subname = nil}
-MultiLanguageNpcData['es'][227761] = {name = "Nerubiano de Azj'kahet", subname = nil}
+MultiLanguageNpcData['es'][227761] = {name = "Nerubiano de Azj-Kahet", subname = nil}
 MultiLanguageNpcData['es'][227762] = {name = "Maga de portal del Kirin Tor", subname = nil}
 MultiLanguageNpcData['es'][227764] = {name = "Carreritas", subname = nil}
 MultiLanguageNpcData['es'][227766] = {name = "Maga de portal del Kirin Tor", subname = nil}

@@ -10795,8 +10795,13 @@ MultiLanguageNpcData['es'][134322] = {name = "Bendición de Kimbul", subname = n
 MultiLanguageNpcData['es'][134324] = {name = "Muñeco de entrenamiento", subname = nil}
 MultiLanguageNpcData['es'][134325] = {name = "Terrence Foster", subname = nil}
 MultiLanguageNpcData['es'][134326] = {name = "Explorador Lanza Negra", subname = nil}
+MultiLanguageNpcData['es'][134327] = {name = "Druida de guerra Loti", subname = "Consejo Zanchuli"}
+MultiLanguageNpcData['es'][134328] = {name = "Maestro de forja Lontananza", subname = nil}
 MultiLanguageNpcData['es'][134329] = {name = "Engendro de sangre", subname = nil}
+MultiLanguageNpcData['es'][134330] = {name = "Triciclo de guerra", subname = nil}
+MultiLanguageNpcData['es'][134331] = {name = "Rey Rahu'ai", subname = nil}
 MultiLanguageNpcData['es'][134332] = {name = "Capitana Tripaverde", subname = "Asaltantes de Tripaverde"}
+MultiLanguageNpcData['es'][134333] = {name = "Dorp", subname = "Asaltantes de Tripaverde"}
 MultiLanguageNpcData['es'][134338] = {name = "Déspota Sabiomar", subname = nil}
 MultiLanguageNpcData['es'][134339] = {name = "Acechador invisible", subname = nil}
 MultiLanguageNpcData['es'][134340] = {name = "Olamarina esclavo", subname = nil}
@@ -38738,7 +38743,7 @@ MultiLanguageNpcData['es'][167209] = {name = "Niall Kugal", subname = nil}
 MultiLanguageNpcData['es'][167210] = {name = "Tabulador Killham", subname = "Ajustador de cuentas de batalla"}
 MultiLanguageNpcData['es'][167211] = {name = "Extractor de recuerdos", subname = nil}
 MultiLanguageNpcData['es'][167212] = {name = "Señora de la guerra Breka Hacha Macabra", subname = nil}
-MultiLanguageNpcData['es'][167213] = {name = "Proveedor Jin'hake", subname = nil}
+MultiLanguageNpcData['es'][167213] = {name = "Proveedor Jin'hake", subname = "Reparaciones y suministros"}
 MultiLanguageNpcData['es'][167214] = {name = "Defensor de Agthia", subname = nil}
 MultiLanguageNpcData['es'][167215] = {name = "Mithdran Rastreaalbas", subname = "Maestro de establos"}
 MultiLanguageNpcData['es'][167216] = {name = "Bruto Throg", subname = nil}

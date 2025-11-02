@@ -23144,8 +23144,14 @@ MultiLanguageNpcData['es'][32163] = {name = "Can de Grimkor", subname = nil}
 MultiLanguageNpcData['es'][32164] = {name = "Artesano esquelético", subname = nil}
 MultiLanguageNpcData['es'][32165] = {name = "Twilight Drake Mount (Red)", subname = nil}
 MultiLanguageNpcData['es'][32166] = {name = "Twilight Drake Mount (Purple)", subname = nil}
+MultiLanguageNpcData['es'][32167] = {name = "Risen Skeleton KC Bunny", subname = nil}
+MultiLanguageNpcData['es'][32168] = {name = "Vicious Geist KC Bunny", subname = nil}
 MultiLanguageNpcData['es'][32169] = {name = "Arcanista Braedin", subname = "Mago de batalla de Conquista del Invierno"}
+MultiLanguageNpcData['es'][32170] = {name = "Magister Surdiel", subname = "Mago de batalla de Conquista del Invierno"}
 MultiLanguageNpcData['es'][32172] = {name = "Harold Winston", subname = "Vendedor de joyas"}
+MultiLanguageNpcData['es'][32173] = {name = "Necrópolis de Corona de Hielo", subname = nil}
+MultiLanguageNpcData['es'][32174] = {name = "Teleportation Portal (Elite)", subname = nil}
+MultiLanguageNpcData['es'][32175] = {name = "Zelote elegido", subname = nil}
 MultiLanguageNpcData['es'][32176] = {name = "Necrófago calado de peste", subname = nil}
 MultiLanguageNpcData['es'][32178] = {name = "Necrófago arrasador", subname = nil}
 MultiLanguageNpcData['es'][32179] = {name = "Tosco cosido", subname = nil}
