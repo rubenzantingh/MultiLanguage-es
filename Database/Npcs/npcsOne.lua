@@ -44095,7 +44095,6 @@ MultiLanguageNpcData['es'][59650] = {name = "Viletongue Skirmisher Cliff-Scaling
 MultiLanguageNpcData['es'][59651] = {name = "Sha de la desesperación", subname = nil}
 MultiLanguageNpcData['es'][59652] = {name = "Aysa Canción Etérea", subname = "Maestra de los tushui"}
 MultiLanguageNpcData['es'][59653] = {name = "Chi-Ji", subname = "La Grulla Roja"}
-MultiLanguageNpcData['es'][59654] = {name = "Caballero de Theramore", subname = nil}
 MultiLanguageNpcData['es'][59655] = {name = "Mur de orejas largas", subname = nil}
 MultiLanguageNpcData['es'][59656] = {name = "El Maestro del Miedo", subname = nil}
 MultiLanguageNpcData['es'][59657] = {name = "Wascally Wirmen Ground Transform", subname = nil}
@@ -44104,14 +44103,12 @@ MultiLanguageNpcData['es'][59659] = {name = "Escort Kill Credit", subname = nil}
 MultiLanguageNpcData['es'][59660] = {name = "Final Boss Kill Credit", subname = nil}
 MultiLanguageNpcData['es'][59661] = {name = "Flecos", subname = nil}
 MultiLanguageNpcData['es'][59662] = {name = "Borla", subname = nil}
-MultiLanguageNpcData['es'][59663] = {name = "Merchant Yu", subname = nil}
 MultiLanguageNpcData['es'][59664] = {name = "Merchant Darkthorn", subname = nil}
 MultiLanguageNpcData['es'][59665] = {name = "Grulla crestada bandida", subname = nil}
 MultiLanguageNpcData['es'][59666] = {name = "Tortuga esmeralda", subname = nil}
 MultiLanguageNpcData['es'][59667] = {name = "Carpa pintada", subname = nil}
 MultiLanguageNpcData['es'][59668] = {name = "Dardo de la jungla", subname = nil}
 MultiLanguageNpcData['es'][59669] = {name = "Cuenco para ofrendas", subname = nil}
-MultiLanguageNpcData['es'][59670] = {name = "Mushan de las Tierras Altas", subname = nil}
 MultiLanguageNpcData['es'][59671] = {name = "Cría de las Tierras Altas", subname = nil}
 MultiLanguageNpcData['es'][59672] = {name = "Limpiahuesos de la cima", subname = nil}
 MultiLanguageNpcData['es'][59674] = {name = "Kill Credit: A Second Hand", subname = nil}
